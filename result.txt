@@ -1,0 +1,32 @@
+23/Oct  01:45,'AC Milan vs Barcelona',1.90,1 : 0,2.00,5.97,3.97,1.56
+23/Oct  01:45,'Arsenal vs Dortmund',2.025,0 : 1/4,1.875,2.30,3.42,3.00
+23/Oct  01:45,'Austria Wien (N) vs Atl. Madrid',1.925,1 1/2 : 0,1.975,9.44,4.81,1.34
+23/Oct  01:45,'Celtic vs Ajax',1.825,0 : 0,2.075,2.47,3.28,2.85
+23/Oct  01:45,'Marseille vs Napoli',1.85,1/4 : 0,2.05,3.00,3.23,2.39
+23/Oct  01:45,'Porto vs Zenit St. Petersburg',2.05,0 : 1,1.85,1.60,3.81,5.85
+23/Oct  01:45,'Schalke 04 vs Chelsea',1.875,1/4 : 0,2.025,3.05,3.34,2.30
+23/Oct  01:45,'Steaua Bucharest vs Basel',2.10,0 : 0,1.80,2.84,3.29,2.47
+23/Oct  23:00,'CSKA Moscow vs Manchester City',1.925,3/4 : 0,1.975,4.66,3.66,1.74
+24/Oct  01:45,'Anderlecht vs PSG',2.10,1 : 0,1.80,6.96,4.25,1.46
+24/Oct  01:45,'Bayern Munchen vs Viktoria Plzen',2.05,0 : 2 3/4,1.85,1.06,12.91,31.52
+24/Oct  01:45,'Benfica vs Olympiakos',2.00,0 : 3/4,1.90,1.72,3.65,4.77
+24/Oct  01:45,'Galatasaray vs Copenhagen',1.95,0 : 1 1/4,1.95,1.39,4.58,8.13
+24/Oct  01:45,'Leverkusen vs Shaktar Donetsk',1.85,0 : 1/2,2.05,1.82,3.62,4.19
+24/Oct  01:45,'Manchester Utd vs Real Sociedad',1.90,0 : 1,2.00,1.49,4.20,6.64
+24/Oct  01:45,'Real Madrid vs Juventus',2.00,0 : 1,1.90,1.55,4.12,5.78
+23/10  01:45,'AC Milan vs Barcelona',1.975,2 3/4,1.925
+23/10  01:45,'Arsenal vs Dortmund',1.85,2 3/4,2.05
+23/10  01:45,'Austria Wien (N) vs Atl. Madrid',1.975,2 3/4,1.925
+23/10  01:45,'Celtic vs Ajax',1.925,2 1/2,1.975
+23/10  01:45,'Marseille vs Napoli',2.075,2 1/2,1.825
+23/10  01:45,'Porto vs Zenit St. Petersburg',2.075,2 1/2,1.825
+23/10  01:45,'Schalke 04 vs Chelsea',1.85,2 1/2,2.05
+23/10  01:45,'Steaua Bucharest vs Basel',1.90,2 1/2,2.00
+23/10  23:00,'CSKA Moscow vs Manchester City',2.05,2 3/4,1.85
+24/10  01:45,'Anderlecht vs PSG',1.875,2 3/4,2.025
+24/10  01:45,'Bayern Munchen vs Viktoria Plzen',1.90,3 3/4,2.00
+24/10  01:45,'Benfica vs Olympiakos',2.025,2 3/4,1.875
+24/10  01:45,'Galatasaray vs Copenhagen',2.075,3,1.825
+24/10  01:45,'Leverkusen vs Shaktar Donetsk',1.95,2 3/4,1.95
+24/10  01:45,'Manchester Utd vs Real Sociedad',2.00,2 3/4,1.90
+24/10  01:45,'Real Madrid vs Juventus',1.95,3,1.95
