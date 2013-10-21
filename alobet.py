@@ -77,6 +77,5 @@ for row in match_rows:
         matches.append(dataNormalize(str(value)))
     values.append(matches)
 
-
 for value in values:
     print ','.join(value)
