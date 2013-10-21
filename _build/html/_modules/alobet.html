@@ -1,0 +1,174 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>alobet &mdash; AloBet 1 documentation</title>
+    
+    <link rel="stylesheet" href="../_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '../',
+        VERSION:     '1',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="../_static/jquery.js"></script>
+    <script type="text/javascript" src="../_static/underscore.js"></script>
+    <script type="text/javascript" src="../_static/doctools.js"></script>
+    <link rel="top" title="AloBet 1 documentation" href="../index.html" />
+    <link rel="up" title="Module code" href="index.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="../py-modindex.html" title="Python Module Index"
+             >modules</a> |</li>
+        <li><a href="../index.html">AloBet 1 documentation</a> &raquo;</li>
+          <li><a href="index.html" accesskey="U">Module code</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <h1>Source code for alobet</h1><div class="highlight"><pre>
+<span class="sd">&quot;&quot;&quot;Copyright (c) 2013 aloBet Group.</span>
+
+<span class="sd">This file is used to get information for website http://www.asianbookie.com.</span>
+
+<span class="sd">You should have received a copy of the GNU General Public License</span>
+<span class="sd">along with this program; if not, write to the Free Software</span>
+<span class="sd">Foundation aloBet Group.</span>
+
+<span class="sd">&quot;&quot;&quot;</span>
+<span class="c">#!/usr/bin/python</span>
+<span class="c">#-*- coding: utf-8 -*-</span>
+<span class="kn">from</span> <span class="nn">bs4</span> <span class="kn">import</span> <span class="n">BeautifulSoup</span>
+<span class="kn">import</span> <span class="nn">urllib2</span>
+<span class="kn">import</span> <span class="nn">re</span>
+
+
+<div class="viewcode-block" id="getTimeZone"><a class="viewcode-back" href="../index.html#alobet.getTimeZone">[docs]</a><span class="k">def</span> <span class="nf">getTimeZone</span><span class="p">(</span><span class="n">data</span><span class="p">):</span>
+    <span class="sd">&quot;&quot;&quot;Do get Information Time Zone.</span>
+
+<span class="sd">    :param name: data.</span>
+<span class="sd">    :param type: BeautifulSoup.</span>
+<span class="sd">    :returns: always &#39;GMT+7&#39;.</span>
+<span class="sd">    :raises: raise Error.</span>
+
+<span class="sd">    &quot;&quot;&quot;</span>
+    <span class="n">value</span> <span class="o">=</span> <span class="n">data</span><span class="o">.</span><span class="n">body</span><span class="o">.</span><span class="n">find</span><span class="p">(</span><span class="s">&#39;option&#39;</span><span class="p">,</span> <span class="p">{</span><span class="s">&quot;selected&quot;</span><span class="p">:</span> <span class="s">&quot;selected&quot;</span><span class="p">})</span>
+    <span class="k">return</span> <span class="n">value</span><span class="o">.</span><span class="n">text</span>
+
+</div>
+<div class="viewcode-block" id="dataNormalize"><a class="viewcode-back" href="../index.html#alobet.dataNormalize">[docs]</a><span class="k">def</span> <span class="nf">dataNormalize</span><span class="p">(</span><span class="n">data</span><span class="p">):</span>
+    <span class="sd">&quot;&quot;&quot;Do Normalize Data.</span>
+
+<span class="sd">    :param name: data is a row in table.</span>
+<span class="sd">    :param type: string.</span>
+<span class="sd">    :returns: string value.</span>
+<span class="sd">    :raises: raise Error.</span>
+
+<span class="sd">    &quot;&quot;&quot;</span>
+    <span class="n">value</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">sub</span><span class="p">(</span><span class="s">&#39;&lt;(.*)&gt;|</span><span class="se">\\</span><span class="s">n&#39;</span><span class="p">,</span> <span class="s">&#39;&#39;</span><span class="p">,</span> <span class="n">data</span><span class="p">)</span><span class="o">.</span><span class="n">strip</span><span class="p">()</span>
+    <span class="k">if</span> <span class="n">value</span><span class="o">.</span><span class="n">find</span><span class="p">(</span><span class="s">&#39;&lt;&#39;</span><span class="p">)</span> <span class="o">!=</span> <span class="o">-</span><span class="mi">1</span><span class="p">:</span>
+        <span class="k">for</span> <span class="n">val</span> <span class="ow">in</span> <span class="n">value</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s">&#39;,&#39;</span><span class="p">):</span>
+            <span class="k">if</span> <span class="n">val</span><span class="o">.</span><span class="n">find</span><span class="p">(</span><span class="s">&#39; vs &#39;</span><span class="p">)</span> <span class="o">!=</span> <span class="o">-</span><span class="mi">1</span><span class="p">:</span>
+                <span class="n">value</span> <span class="o">=</span> <span class="n">val</span>
+    <span class="k">return</span> <span class="n">value</span>
+
+
+<span class="c">#we can use the argv of the system as variables for url</span>
+<span class="c">#url = &quot;http://www.asianbookie.com/index.cfm?league={0}&amp;tz={1}&quot;\</span>
+<span class="c">#        .format(argv[0], argv[1])</span></div>
+<span class="n">url</span> <span class="o">=</span> <span class="s">&quot;http://www.asianbookie.com/index.cfm?league=6&amp;tz=7&quot;</span>
+
+<span class="c">#Simulated a web browser</span>
+<span class="n">request</span> <span class="o">=</span> <span class="n">urllib2</span><span class="o">.</span><span class="n">Request</span><span class="p">(</span><span class="n">url</span><span class="p">)</span>
+<span class="n">request</span><span class="o">.</span><span class="n">add_header</span><span class="p">(</span><span class="s">&#39;User-agent&#39;</span><span class="p">,</span> <span class="s">&#39;Googlebot/2.1&#39;</span><span class="p">)</span>
+<span class="n">webdata</span> <span class="o">=</span> <span class="n">urllib2</span><span class="o">.</span><span class="n">urlopen</span><span class="p">(</span><span class="n">request</span><span class="p">)</span>
+<span class="n">data</span> <span class="o">=</span> <span class="n">BeautifulSoup</span><span class="p">(</span><span class="n">webdata</span><span class="o">.</span><span class="n">read</span><span class="p">())</span>
+
+<span class="c">#get table store all info</span>
+<span class="n">masterdiv</span> <span class="o">=</span> <span class="n">data</span><span class="o">.</span><span class="n">body</span><span class="o">.</span><span class="n">find</span><span class="p">(</span><span class="s">&#39;div&#39;</span><span class="p">,</span> <span class="p">{</span><span class="s">&#39;id&#39;</span><span class="p">:</span> <span class="s">&#39;masterdiv&#39;</span><span class="p">})</span>
+
+<span class="c">#get all table row</span>
+<span class="n">tablerow</span> <span class="o">=</span> <span class="n">masterdiv</span><span class="o">.</span><span class="n">find_all</span><span class="p">(</span><span class="s">&#39;tr&#39;</span><span class="p">)</span>
+
+<span class="c">#select rows needed in a table</span>
+<span class="n">match_rows</span> <span class="o">=</span> <span class="p">[]</span>
+<span class="k">for</span> <span class="n">tag</span> <span class="ow">in</span> <span class="n">tablerow</span><span class="p">:</span>
+    <span class="k">if</span> <span class="n">tag</span><span class="o">.</span><span class="n">td</span><span class="o">.</span><span class="n">has_attr</span><span class="p">(</span><span class="s">&#39;align&#39;</span><span class="p">)</span> <span class="ow">and</span> <span class="n">tag</span><span class="o">.</span><span class="n">td</span><span class="o">.</span><span class="n">has_attr</span><span class="p">(</span><span class="s">&#39;nowrap&#39;</span><span class="p">):</span>
+        <span class="k">if</span> <span class="n">tag</span><span class="o">.</span><span class="n">find</span><span class="p">(</span><span class="s">&#39;span&#39;</span><span class="p">):</span>
+            <span class="n">match_rows</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">BeautifulSoup</span><span class="p">(</span><span class="n">tag</span><span class="o">.</span><span class="n">prettify</span><span class="p">()))</span>
+
+<span class="c">#values insert into Database</span>
+<span class="n">values</span> <span class="o">=</span> <span class="p">[]</span>
+<span class="k">for</span> <span class="n">row</span> <span class="ow">in</span> <span class="n">match_rows</span><span class="p">:</span>
+    <span class="n">columms</span> <span class="o">=</span> <span class="n">row</span><span class="o">.</span><span class="n">find_all</span><span class="p">(</span><span class="s">&#39;td&#39;</span><span class="p">)</span>
+    <span class="n">matches</span> <span class="o">=</span> <span class="p">[]</span>
+    <span class="k">for</span> <span class="n">value</span> <span class="ow">in</span> <span class="n">columms</span><span class="p">:</span>
+        <span class="n">matches</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">dataNormalize</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">value</span><span class="p">)))</span>
+    <span class="n">values</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">matches</span><span class="p">)</span>
+
+
+<span class="k">for</span> <span class="n">value</span> <span class="ow">in</span> <span class="n">values</span><span class="p">:</span>
+    <span class="k">print</span> <span class="s">&#39;,&#39;</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">value</span><span class="p">)</span>
+</pre></div>
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+<div id="searchbox" style="display: none">
+  <h3>Quick search</h3>
+    <form class="search" action="../search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    <p class="searchtip" style="font-size: 90%">
+    Enter search terms or a module, class or function name.
+    </p>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="../py-modindex.html" title="Python Module Index"
+             >modules</a> |</li>
+        <li><a href="../index.html">AloBet 1 documentation</a> &raquo;</li>
+          <li><a href="index.html" >Module code</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2013, AloBet Group.
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.2b3.
+    </div>
+  </body>
+</html>
