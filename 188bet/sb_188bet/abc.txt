@@ -1,0 +1,25 @@
+import re
+
+def getDetails(data):
+    for td in data:
+            if td['class'][0] == 'col-info':        
+                        a = re.sub('<(.*)>|\\n','',data.prettify()).strip()
+                                    return re.sub('  +',';',a).split(';')
+                                        
+
+                                        home = {}
+                                        away = {}
+                                        draw = {}
+
+
+                                        for value in tbody:
+                                            home, away, draw = value.find_all('tr')
+
+                                            data = BeautifulSoup(open(filename))
+                                            tbody = data.find_all('tbody')
+
+                                            #match time
+                                            #{'col-info': [u'01 / 12', u'23:10']}
+                                            match = {'col-info':[]}
+                                            match['col-info'] = getHome(data)
+

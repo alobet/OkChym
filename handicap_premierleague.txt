@@ -1,0 +1,1888 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1">
+    <title>188BET - In-Play Betting &amp; Live Football Betting Specialists</title>
+    
+    <style>
+		ol { list-style-type:decimal  }
+    </style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+    <meta name="description" content="188BET are the In-Play betting specialists, offering the best in live betting on football &amp; sports from around the world. Get the latest In-Play odds &amp; bet now!">
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"> 
+    <meta name="title" content="188BET - In-Play Betting &amp; Live Football Betting Specialists">
+	
+<script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript">
+    var global = { ckExp: 14, root: '../../../', lan: 'en-gb', rv: '10.01', mm: eval('[{"id":110,"isMt":false,"mod":"188Sports"},{"id":120,"isMt":false,"mod":"188Casino"},{"id":130,"isMt":false,"mod":"188Live"},{"id":140,"isMt":false,"mod":"Casino – Royal Suite"},{"id":150,"isMt":false,"mod":"Casino – Imperial Suite"},{"id":160,"isMt":false,"mod":"Casino – Grand Suite"},{"id":170,"isMt":false,"mod":"Casino – VIP Suite"},{"id":180,"isMt":false,"mod":"Casino Transfer"},{"id":190,"isMt":false,"mod":"PCH"},{"id":200,"isMt":false,"mod":"188Affiliate"},{"id":210,"isMt":false,"mod":"Nano"},{"id":220,"isMt":false,"mod":"FINANCIAL"},{"id":230,"isMt":false,"mod":"POKER"},{"id":240,"isMt":false,"mod":"Horse Racing"},{"id":250,"isMt":false,"mod":"KENO"}]') ,vip:{ domains:'', accs:''}, sdomains : eval('[{"isDyn":false,"n":"mobile","u":"http:\/\/mobile.188bet.com\/"},{"isDyn":false,"n":"wap","u":"http:\/\/wap.188bet.com"},{"isDyn":false,"n":"new","u":"http:\/\/preview.188bet.com"}]'), cdn: 'http://cdn.188bet.com/', gamepagesize: '20' * 1, bgurl: 'http://betstream2.betgenius.com', smsetting: { psc: 9, fscc: 5, oscc: 3, esc: 3, eec: 10} };
+</script>
+	
+<link rel="shortcut icon" href="http://cdn.188bet.com/Public/Images/Common/favicon.ico" type="image/x-icon">
+<style type="text/css">
+    .ellipsis{overflow:hidden;text-overflow:ellipsis;-o-text-overflow:ellipsis;-moz-binding:url(/public/xml/ellipsis-xbl.xml#ellipsis);white-space:nowrap;}
+    
+</style>
+<link href="http://cdn.188bet.com/Public/CSS/Common.css?v=10.01" rel="stylesheet" type="text/css">
+<link href="http://cdn.188bet.com/Public/CSS/Sports-nav.css?v=10.01" rel="stylesheet" type="text/css">
+<link href="http://cdn.188bet.com/Public/CSS/AsiaSite.css?v=10.01" rel="stylesheet" type="text/css">
+
+<script src="http://cdn.188bet.com/Public/Lib/Jquery/jquery-1.3.2.min.js?v=10.01" type="text/javascript"></script>
+<script src="http://cdn.188bet.com/Public/Lib/Jquery/jquery-ui-1.7.2.custom.min.js?v=10.01" type="text/javascript"></script>
+<script src="http://cdn.188bet.com/Public/JS/Language/en-gb.js?v=10.01" type="text/javascript"></script>
+<script src="http://cdn.188bet.com/Public/Lib/TemplateJS.js?v=10.01" type="text/javascript"></script>
+<script src="http://cdn.188bet.com/Public/JS/Common.js?v=10.01" type="text/javascript"></script>
+
+	
+	
+<script language="javascript" type="text/javascript">
+    
+    var uv = {g:{sId:'1,14,15,16,19,24,29', rl:30, ru:60,rs:150, rmp:60, rip:30},login:false,ov:3,sb:1,tzDate: "02 Nov 2013",tz:"-04:00:00",dep: true,tzoff:'', svrDt:'2013/11/02 02:24:07', utcDate:'2013/11/02 06:24:07' ,urView:'ASIAN'
+    
+    ,ref:{ic:60, icz:60}, efloat:true, IntroV : false , Counter : false, Deposit : false,pds:0,showsp:true,showls:false,country:'VN'
+    , sec: 'https://secure.188bet.com/en-gb/', usc: true, srvc: 'BJFBCI  ADDBCI  ',isam:false,ism:false,acid :'0',cdbg:true};
+</script>
+   <script src="http://cdn.188bet.com/Public/Js/Index.js?v=10.01" type="text/javascript"></script>
+    <script language="javascript" type="text/javascript">
+        var Redirect ={isRedirectToNewUrl:false,isShowPopupMessage:false,popupMessage: 'You will be redirected to our new website in a few moments as we have invited you to the soft launch of a new interface which carries new features 188BET has got to offer. All feedbacks welcomed!',redirectURL:''};
+    </script>
+  
+    <link href="http://cdn.188bet.com/Public/CSS/sports.css?v=10.01" rel="stylesheet" type="text/css">
+    <script src="http://cdn.188bet.com/Public/JS/Sports/SportMenu.js?v=10.01" type="text/javascript"></script>
+    <!-- <script src="http://cdn.188bet.com/Public/JS/Sports/Left_Indicator.js?v=10.01" type="text/javascript"></script> -->
+    <script src="http://cdn.188bet.com/Public/JS/Sports/BetSlipEffects.js?v=10.01" type="text/javascript"></script>
+    <script src="http://cdn.188bet.com/Public/JS/Sports/BetSlip.js?v=10.01" type="text/javascript"></script>
+    <script src="http://cdn.188bet.com/Public/JS/Sports/MyBet.js?v=10.01" type="text/javascript"></script>
+    <script src="http://cdn.188bet.com/Public/Lib/tooltip.js?v=10.01" type="text/javascript"></script>
+    <script src="http://cdn.188bet.com/Public/Lib/jquery.numberformatter.js?v=10.01" type="text/javascript"></script>
+    <script src="http://cdn.188bet.com/Public/JS/Sports/LeftPanel.js?v=10.01" type="text/javascript"></script>
+        
+    <script src="http://cdn.188bet.com/Public/JS/Sports/SportOdds.js?v=10.01" type="text/javascript"></script>
+    
+    <style type="text/css">
+        .c-n .h-w-w,.c-n .h-n-r,.c-n .h-w-r,.c-n .h-n-w,.c-n .a-w-w,.c-n .a-n-r,.c-n .a-w-r,.c-n .a-n-w,.tbl tr td .tn-ellipsis{overflow:hidden;text-overflow:ellipsis;-o-text-overflow:ellipsis;-moz-binding:url(/public/xml/ellipsis-xbl.xml#ellipsis); }
+    </style>
+
+
+  <script type="text/javascript">var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-898092-1']);_gaq.push(['_setDomainName', '188bet.com']);_gaq.push(['_setAllowLinker', true]);_gaq.push(['_trackPageview']);(function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script>
+<style type="text/css" media="print">.dropShadow{visibility:hidden;}</style></head>
+<body class="guest  en-gb ">
+    <form action="">
+        <div id="page-holder" class="annu">
+            <div id="page" class="bgImage">
+              <div id="header">
+
+<script language="javascript" type="text/javascript">
+    var header = { sbt: 'Switch to 188Bet Asia Site' };
+</script>
+<div class="top">
+    <div class="acct-info-content">         
+         <div id="user-info" class="user-info">
+            <ul id="preLogin" class="login-panel">
+                  <li>
+                    <input type="text" class="login hidden" id="txtName" value="" size="20" maxlength="20">
+                    <input type="text" class="login" id="txtNameMask" value="Username" maxlength="20">
+                  </li>
+                  <li>
+                     <input type="password" class="login hidden" id="txtPass" maxlength="20">
+                     <input type="text" class="login" id="txtPassMask" value="Password" maxlength="20">
+                  </li>
+                  <li class="works"><a id="btnLogin" class="bnr join" href="javascript:void(0)"> Log In </a></li>
+                  <li class="signup" style="display:none"><a href="/en-gb/user/register" class="btn3 join popup-div ijoin w720 h+623">Join Now</a></li>
+                  <li class="text"><a class="btoj popup-div ijoin w720 h623" href="/en-gb/user/register">Join Now</a>|</li>
+                  <li class="text"><a href="/en-gb/user/forgot-password" target="_blank" class="popup-div ifpass w500 h164">Forgot Password</a></li>
+             </ul>
+         </div>
+         <div class="info-border"></div>
+    </div>
+    
+</div>
+<div class="main">    
+    
+   <div class="countries time">
+       <ul><li class="country-select">
+<div class="sel-lang"><div class="languageDisplay">
+    <a href="javascript:void(0)" class="en-gb country"><span id="ctl00_ctl00_HeaderControl1_HeaderTopLinksControl2_SwitchLanguageControl1_lbLanguageName">English</span></a>
+    </div>
+    
+</div></li></ul>
+   </div>
+   <div id="more-acct-info" class="info-new">
+
+<ul>
+    <li>|<a target="_blank" class="popup-new icenter w917 h600 ryes" href="/en-gb/info-centre/help/opening-an-account">Help</a>|</li>
+    <li class="selector">
+        <div id="contactlist" class="menutitle"><span>Contact Us</span>|</div>
+        
+    </li>
+</ul>
+
+   </div>
+   <div class="time"><ul><li id="time-zone" class="time-zone"><span id="lbClock">13:24:08</span>&nbsp;<span class="gmt" id="tzgmt">(GMT +07:00)</span></li></ul></div>    
+    <div class="logo">
+        <h1>188BET</h1>
+        
+                <a href="/en-gb/home" title="188BET"></a>
+        
+    </div>
+    <div class="nav">
+<ul id="main-items">
+    <li id="sports" class="188Sports"><a href="/en-gb/sports" class="sport selected"></a></li>
+    <li id="racing" class="Horse_Racing no-cred hidden"><a class="racing racinglnk" href="/en-gb/racing"></a></li>
+    <li id="casino" class="188Casino no-cred"><a class="casino" href="/en-gb/casino"></a></li>
+    <li id="live" class="188Live no-cred"><a class="live-casino" href="/en-gb/live"></a></li>
+    <li id="poker" class="POKER no-cred"><a class="poker" href="/en-gb/poker"></a></li>
+    <li id="financials" class="FINANCIAL no-cred"><a class="financials" href="/en-gb/financials"></a></li>
+    <li id="keno" class="KENO no-cred "><a class="keno" href="/en-gb/keno"></a></li>
+    <li id="promotions" class="promotions_tab no-cred"><a class="popup-new icenter w917 h600 ryes" href="/en-gb/info-centre/promotions"></a></li>
+    <li id="mobile" class="mobile_tab no-cred"><a class="mobile" href="/en-gb/mobile"></a></li>
+</ul></div>    
+</div>
+
+</div>
+              
+    
+<div id="sport-main">
+    <ul class="top-items">
+      <li class="in-play">
+        <span class="ip-icon"></span>
+        <a href="/en-gb/sports/all/in-play/" class="sn">In-Play</a>
+        <a id="counter" href="/en-gb/sports/all/in-play/" class="pn">20</a>
+      </li>
+      <li class="com-s"><span class="simg sport-icon1"></span><a id="FOOTBALL" class="csn selected" href="../../../sports/football" title="Football">Football</a></li><li class="com-s"><span class="simg sport-icon2"></span><a id="BASKETBALL" class="csn" href="../../../sports/basketball" title="Basketball">Basketball</a></li><li class="com-s"><span class="simg sport-icon3"></span><a id="TENNIS" class="csn" href="../../../sports/tennis" title="Tennis">Tennis</a></li><li class="com-s"><span class="simg sport-icon9"></span><a id="BADMINTON" class="csn" href="../../../sports/badminton" title="Badminton">Badminton</a></li>
+    
+      <li class="others firstothers">
+        <span class="simg sport-icon0"></span>
+        <a class="c-lef csn" href="javascript:void(0)">Other Sports</a>
+        <a class="co-oth-btn" href="javascript:void(0)"></a>
+      </li>
+   </ul>
+   <ul class="top-tools">
+        <li class="SportsBookMenu">
+            <a id="changeToACM" href="/en-gb/asia" class="">Switch to Asian View</a>
+        </li>
+        <li id="tvicon" title="188TV - View all available Live Streaming events" class="hidden">
+            <a class="popup-new istream w810 h560 ryes sno" href="/en-gb/live-streaming" target="_blank"><span class="tvicon"></span>188TV</a>
+        </li>
+        <li>
+            <a id="ddl-info" class="ddl-text dropdown" href="javascript:void(0)">Information</a>
+            
+        </li>
+    </ul>
+</div>
+
+<div id="sport-multisport" class="hidden">
+  <ul class="other-items">
+     
+  </ul>
+  <div id="multisport-bg-btm-l"></div>
+  <div id="multisport-bg-btm-r"></div>
+</div>
+
+<div id="sport-others" class="hidden">
+  <ul class="other-items">
+    <li><a class="csn" id="AMERICANFOOTBALL" href="../../../sports/american-football" title="American Football">American Football</a></li><li><a class="csn" id="BASEBALL" href="../../../sports/baseball" title="Baseball">Baseball</a></li><li><a class="csn" id="BOXING" href="../../../sports/boxing" title="Boxing / Fighting">Boxing / Fighting</a></li><li><a class="csn" id="CRICKET" href="../../../sports/cricket" title="Cricket">Cricket</a></li><li><a class="csn" id="DARTS" href="../../../sports/darts" title="Darts">Darts</a></li><li><a class="csn" id="ESPORTS" href="../../../sports/e-sports" title="E-Sports">E-Sports</a></li><li><a class="csn" id="FINANCIALBETS" href="../../../sports/financial-bets" title="Financial Bets">Financial Bets</a></li><li><a class="csn" id="GOLF" href="../../../sports/golf" title="Golf">Golf</a></li><li><a class="csn" id="HANDBALL" href="../../../sports/handball" title="Handball">Handball</a></li><li><a class="csn" id="ICEHOCKEY" href="../../../sports/ice-hockey" title="Ice Hockey">Ice Hockey</a></li><li><a class="csn" id="LOTTERY" href="../../../sports/lottery" title="Lottery">Lottery</a></li><li><a class="csn" id="MISSUNIVERSE" href="../../../sports/miss-universe" title="Miss Universe">Miss Universe</a></li><li><a class="csn" id="MOTORRACING" href="../../../sports/motor-racing" title="Motor Racing">Motor Racing</a></li><li><a class="csn" id="RUGBY" href="../../../sports/rugby" title="Rugby">Rugby</a></li><li><a class="csn" id="SNOOKER" href="../../../sports/snooker" title="Snooker / Pool">Snooker / Pool</a></li><li><a class="csn" id="OTHERS" href="../../../sports/others" title="Special Events">Special Events</a></li><li><a class="csn" id="VOLLEYBALL" href="../../../sports/volleyball" title="Volleyball">Volleyball</a></li>
+  </ul>
+</div>
+
+              
+    
+    <script type="text/javascript">
+        var ltEn = "False";
+        var staEn = "True";
+    </script>
+	<div id="container" class="bet">
+		
+
+<div class="wrapper">
+    <div id="ctl00_ctl00_Content_Content_OddsControl1_leftMenu" class="leftMenu">
+        
+<div id="left-panel" class="ui-tabs ui-widget ui-widget-content ui-corner-all">
+    
+    <ul class="vm ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
+        <li class="ui-state-default ui-corner-top ui-tabs-selected ui-state-active"><a id="id-Menu" class="menu" href="#tab-Menu">
+            Menu</a></li>
+        <li class="ui-state-default ui-corner-top"><a id="id-InPlay" class="in-play" href="#tab-InPlay">
+            In-Play</a></li>
+        
+        <li><span id="id-VM" class="btn-vm" url="/en-gb/sports/football/competition/asian-handicap-and-over-under?competitionids=26726&amp;view=advanced" title="Hide Menu">
+        </span></li>
+        
+    </ul>
+    <div class="error hidden" id="errMessage">
+        <span class="noe-in-s">
+            Sorry, there are no In-Play events available at present.</span>
+        <div id="errOK">
+            OK</div>
+    </div>
+    
+    <div id="tab-Menu" class="ui-tabs-panel ui-widget-content ui-corner-bottom"><div id="tab-Menu-Container">
+     <!--Featured Events-->
+    <!--Inplay Now-->
+    <!--Display on the Homepage only-->
+    <!--Sport Menu-->
+    <!--Display Competition Count for First Sport :  Display Competition Count for Other Sports-->
+    <!--Other Sports-->
+    <!--Football Type-->
+             <div id="spt1" class="sp-t expand">
+                <span class="mx-content"><span>Football</span></span>
+                <span class="c-btn"></span>
+            </div>
+        <div class="mk-list" style="display: block; ">
+            <a href="/en-gb/sports/football/matches-by-date/today/full-time-asian-handicap-and-over-under">
+                <div class="mk" id="td1">
+                    <span>Today’s Matches</span>
+                    <span class="counter-nonip">377</span>
+                </div>
+            </a>
+            <a href="/en-gb/sports/football/in-play/full-time-asian-handicap-and-over-under">
+                <div class="mk">
+                    <span class="ip-txt">In-Play</span>
+                    <span>Matches</span>
+                    <span class="counter-ip" title="Number of In-Play Events">16</span>
+                </div>
+            </a>
+            <a href="/en-gb/sports/football/matches-by-date/tomorrow/full-time-asian-handicap-and-over-under">
+                <div class="mk" id="ear1">
+                    <span>Future Matches (Early)</span>
+                </div>
+            </a>
+            <a href="/en-gb/sports/football/matches-by-date/today/outright">
+                <div class="mk" id="or1">
+                    <span>Outright Markets</span>
+                </div>
+            </a>
+             <a href="/en-gb/sports/football/select-competition/full-time-asian-handicap-and-over-under">
+                <div class="mk" id="selcomp1">
+                    <span>View All Competitions</span>
+                </div>
+            </a>
+                 <!--Pre-Start Sport Menu-->
+                         <div class="c-n expand popularcomp">
+                              <span>Popular Competitions</span>
+                              <span class="c-btn"></span>
+                        </div>
+                        <div class="c-list">
+                            <a class="" href="/en-gb/sports/football/competition/full-time-asian-handicap-and-over-under?competitionids=27166">
+                                <div class="c" id="c27166">
+                                    <span>UEFA Champions League</span>
+                                </div>
+                            </a>
+                             <a class="" href="/en-gb/sports/football/competition/full-time-asian-handicap-and-over-under?competitionids=26726">
+                                <div class="c selected" id="c26726">
+                                    <span>English Premier League</span>
+                                </div>
+                            </a>
+                             <a class="" href="/en-gb/sports/football/competition/full-time-asian-handicap-and-over-under?competitionids=27487">
+                                <div class="c" id="c27487">
+                                    <span>Germany Bundesliga 1</span>
+                                </div>
+                            </a>
+                             <a class="" href="/en-gb/sports/football/competition/full-time-asian-handicap-and-over-under?competitionids=27068">
+                                <div class="c" id="c27068">
+                                    <span>Spain Primera Division</span>
+                                </div>
+                            </a>
+                             <a class="" href="/en-gb/sports/football/competition/full-time-asian-handicap-and-over-under?competitionids=27317">
+                                <div class="c" id="c27317">
+                                    <span>Italy Serie A</span>
+                                </div>
+                            </a>
+                             <a class="" href="/en-gb/sports/football/competition/full-time-asian-handicap-and-over-under?competitionids=28301">
+                                <div class="c" id="c28301">
+                                    <span>UEFA Europa League</span>
+                                </div>
+                            </a>
+                             <a class="" href="/en-gb/sports/football/competition/full-time-asian-handicap-and-over-under?competitionids=26272">
+                                <div class="c" id="c26272">
+                                    <span>Australia A League</span>
+                                </div>
+                            </a>
+                             <a class="" href="/en-gb/sports/football/competition/full-time-asian-handicap-and-over-under?competitionids=27904">
+                                <div class="c" id="c27904">
+                                    <span>Japan J-League Division 2</span>
+                                </div>
+                            </a>
+                             <a class="" href="/en-gb/sports/football/competition/full-time-asian-handicap-and-over-under?competitionids=29366">
+                                <div class="c" id="c29366">
+                                    <span>AFC Champions League</span>
+                                </div>
+                            </a>
+                             <a class="" href="/en-gb/sports/football/competition/full-time-asian-handicap-and-over-under?competitionids=26766">
+                                <div class="c" id="c26766">
+                                    <span>English League Cup</span>
+                                </div>
+                            </a>
+                         </div>
+          </div>
+    <!--Other Type-->
+     <!--Display Competition Count for First Sport :  Display Competition Count for Other Sports-->
+    <!--Other Sports-->
+    <!--Football Type-->
+             <div id="spt2" class="sp-t">
+                <span class="mx-content"><span>Basketball</span></span>
+                <span class="c-btn"></span>
+            </div>
+        <div class="mk-list" style="display: none; ">
+            <a href="/en-gb/sports/basketball">
+                <div class="mk" id="s2">
+                    <span>Matches</span>
+                    <span class="counter-nonip">69</span>
+                </div>
+            </a>
+            <a href="/en-gb/sports/basketball/in-play/full-time-asian-handicap-and-over-under">
+                <div class="mk">
+                    <span class="ip-txt">In-Play</span>
+                    <span>Matches</span>
+                    <span class="counter-ip" title="Number of In-Play Events">2</span>
+                </div>
+            </a>
+             <a href="/en-gb/sports/basketball/competition/outright">
+                <div class="mk" id="or2">
+                    <span>Outright Markets</span>
+                </div>
+            </a>
+            
+            <a href="/en-gb/sports/basketball/select-competition/full-time-asian-handicap-and-over-under">
+            <div class="mk" id="selcomp2">
+                <span>View All Competitions</span>
+            </div>
+            </a>
+                 <!--Pre-Start Sport Menu-->
+                         <div class="c-n expand popularcomp">
+                            <span>Popular Competitions</span>
+                            <span class="c-btn"></span>
+                        </div>
+                        <div class="c-list">
+                            <a class="" href="/en-gb/sports/basketball/competition/full-time-asian-handicap-and-over-under?competitionids=27096">
+                                <div class="c" id="c27096">
+                                    <span>NBA</span>
+                                </div>
+                            </a>
+                             <a class="" href="/en-gb/sports/basketball/competition/full-time-asian-handicap-and-over-under?competitionids=28663">
+                                <div class="c" id="c28663">
+                                    <span>Greece A1 Basketball League</span>
+                                </div>
+                            </a>
+                             <a class="" href="/en-gb/sports/basketball/competition/full-time-asian-handicap-and-over-under?competitionids=27140">
+                                <div class="c" id="c27140">
+                                    <span>Italy Lega A Basketball League</span>
+                                </div>
+                            </a>
+                             <a class="hidden" href="/en-gb/sports/basketball/competition/full-time-asian-handicap-and-over-under?competitionids=28611">
+                                <div class="c" id="c28611">
+                                    <span>Spain ACB League</span>
+                                </div>
+                            </a>
+                             <a class="hidden" href="/en-gb/sports/basketball/competition/full-time-asian-handicap-and-over-under?competitionids=26693">
+                                <div class="c" id="c26693">
+                                    <span>Korea Basketball League</span>
+                                </div>
+                            </a>
+                             <a class="hidden" href="/en-gb/sports/basketball/competition/full-time-asian-handicap-and-over-under?competitionids=26485">
+                                <div class="c" id="c26485">
+                                    <span>Australia National Basketball League</span>
+                                </div>
+                            </a>
+                             <a class="hidden" href="/en-gb/sports/basketball/competition/full-time-asian-handicap-and-over-under?competitionids=28348">
+                                <div class="c" id="c28348">
+                                    <span>EuroLeague Basketball</span>
+                                </div>
+                            </a>
+                             <a class="hidden" href="/en-gb/sports/basketball/competition/full-time-asian-handicap-and-over-under?competitionids=29445">
+                                <div class="c" id="c29445">
+                                    <span>Germany Basketball Bundesliga</span>
+                                </div>
+                            </a>
+                             <a class="hidden" href="/en-gb/sports/basketball/competition/full-time-asian-handicap-and-over-under?competitionids=28916">
+                                <div class="c" id="c28916">
+                                    <span>France Pro A Basketball League</span>
+                                </div>
+                            </a>
+                             <a class="hidden" href="/en-gb/sports/basketball/competition/full-time-asian-handicap-and-over-under?competitionids=27340">
+                                <div class="c" id="c27340">
+                                    <span>Turkey Basketball League</span>
+                                </div>
+                            </a>
+                         </div>
+          </div>
+    <!--Outright Type-->
+     <!--Display Competition Count for First Sport :  Display Competition Count for Other Sports-->
+    <!--Other Sports-->
+    <!--Football Type-->
+             <div id="spt3" class="sp-t">
+                <span class="mx-content"><span>Tennis</span></span>
+                <span class="c-btn"></span>
+            </div>
+        <div class="mk-list" style="display: none; ">
+            <a href="/en-gb/sports/tennis">
+                <div class="mk" id="s3">
+                    <span>Matches</span>
+                    <span class="counter-nonip">9</span>
+                </div>
+            </a>
+             <a href="/en-gb/sports/tennis/competition/outright">
+                <div class="mk" id="or3">
+                    <span>Outright Markets</span>
+                </div>
+            </a>
+            
+            <a href="/en-gb/sports/tennis/select-competition/full-time-asian-handicap-and-over-under">
+            <div class="mk" id="selcomp3">
+                <span>View All Competitions</span>
+            </div>
+            </a>
+                 <!--Pre-Start Sport Menu-->
+                         <div class="c-n expand popularcomp">
+                            <span>Popular Competitions</span>
+                            <span class="c-btn"></span>
+                        </div>
+                        <div class="c-list">
+                            <a class="" href="/en-gb/sports/tennis/competition/full-time-asian-handicap-and-over-under?competitionids=31197">
+                                <div class="c" id="c31197">
+                                    <span>ATP - Paris Masters</span>
+                                </div>
+                            </a>
+                             <a class="" href="/en-gb/sports/tennis/competition/full-time-asian-handicap-and-over-under?competitionids=29322">
+                                <div class="c" id="c29322">
+                                    <span>ITF - Federation Cup</span>
+                                </div>
+                            </a>
+                             <a class="" href="/en-gb/sports/tennis/competition/full-time-asian-handicap-and-over-under?competitionids=40026">
+                                <div class="c" id="c40026">
+                                    <span>WTA - Sofia Champions</span>
+                                </div>
+                            </a>
+                             <a class="hidden" href="/en-gb/sports/tennis/competition/full-time-asian-handicap-and-over-under?competitionids=31196">
+                                <div class="c" id="c31196">
+                                    <span>ATP - Paris Masters</span>
+                                </div>
+                            </a>
+                             <a class="hidden" href="/en-gb/sports/tennis/competition/full-time-asian-handicap-and-over-under?competitionids=31308">
+                                <div class="c" id="c31308">
+                                    <span>ATP - Paris Masters (Doubles)</span>
+                                </div>
+                            </a>
+                             <a class="hidden" href="/en-gb/sports/tennis/competition/full-time-asian-handicap-and-over-under?competitionids=45013">
+                                <div class="c" id="c45013">
+                                    <span>WTA - Nanjing China Open (Doubles)</span>
+                                </div>
+                            </a>
+                             <a class="hidden" href="/en-gb/sports/tennis/competition/full-time-asian-handicap-and-over-under?competitionids=40025">
+                                <div class="c" id="c40025">
+                                    <span>WTA - Sofia Champions</span>
+                                </div>
+                            </a>
+                             <a class="hidden" href="/en-gb/sports/tennis/competition/full-time-asian-handicap-and-over-under?competitionids=29368">
+                                <div class="c" id="c29368">
+                                    <span>ATP - Australian Open</span>
+                                </div>
+                            </a>
+                             <a class="hidden" href="/en-gb/sports/tennis/competition/full-time-asian-handicap-and-over-under?competitionids=27870">
+                                <div class="c" id="c27870">
+                                    <span>WTA - Australian Open</span>
+                                </div>
+                            </a>
+                             <a class="hidden" href="/en-gb/sports/tennis/competition/full-time-asian-handicap-and-over-under?competitionids=28192">
+                                <div class="c" id="c28192">
+                                    <span>ATP - Roland Garros French Open</span>
+                                </div>
+                            </a>
+                         </div>
+          </div>
+    <!--Outright Type-->
+     <!--Display Competition Count for First Sport :  Display Competition Count for Other Sports-->
+    <!--Other Sports-->
+    <!--Football Type-->
+             <div id="spt9" class="sp-t">
+                <span class="mx-content"><span>Badminton</span></span>
+                <span class="c-btn"></span>
+            </div>
+        <div class="mk-list" style="display: none; ">
+            <a href="/en-gb/sports/badminton">
+                <div class="mk" id="s9">
+                    <span>Matches</span>
+                    <span class="counter-nonip">8</span>
+                </div>
+            </a>
+             
+            <a href="/en-gb/sports/badminton/select-competition/full-time-asian-handicap-and-over-under">
+            <div class="mk" id="selcomp9">
+                <span>View All Competitions</span>
+            </div>
+            </a>
+                 <!--Pre-Start Sport Menu-->
+                         <div class="c-n expand popularcomp">
+                            <span>Popular Competitions</span>
+                            <span class="c-btn"></span>
+                        </div>
+                        <div class="c-list">
+                            <a class="" href="/en-gb/sports/badminton/competition/full-time-asian-handicap-and-over-under?competitionids=34356">
+                                <div class="c" id="c34356">
+                                    <span>Badminton GP Gold Bitburger Open (Men Singles)</span>
+                                </div>
+                            </a>
+                             <a class="" href="/en-gb/sports/badminton/competition/full-time-asian-handicap-and-over-under?competitionids=34358">
+                                <div class="c" id="c34358">
+                                    <span>Badminton GP Gold Bitburger Open (Men Doubles)</span>
+                                </div>
+                            </a>
+                             <a class="" href="/en-gb/sports/badminton/competition/full-time-asian-handicap-and-over-under?competitionids=34362">
+                                <div class="c" id="c34362">
+                                    <span>Badminton GP Gold Bitburger Open (Women Doubles)</span>
+                                </div>
+                            </a>
+                             <a class="hidden" href="/en-gb/sports/badminton/competition/full-time-asian-handicap-and-over-under?competitionids=34364">
+                                <div class="c" id="c34364">
+                                    <span>Badminton GP Gold Bitburger Open (Mix Doubles)</span>
+                                </div>
+                            </a>
+                         </div>
+          </div>
+    <!--Outright Type-->
+     <!--Display Competition Count for First Sport :  Display Competition Count for Other Sports-->
+    <!--Other Sports-->
+    <!--Football Type-->
+             <div id="spt7" class="sp-t">
+                <span class="mx-content"><span>American Football</span></span>
+                <span class="c-btn"></span>
+            </div>
+        <div class="mk-list" style="display: none; ">
+            <a href="/en-gb/sports/american-football">
+                <div class="mk" id="s7">
+                    <span>Matches</span>
+                    <span class="counter-nonip">36</span>
+                </div>
+            </a>
+             <a href="/en-gb/sports/american-football/competition/outright">
+                <div class="mk" id="or7">
+                    <span>Outright Markets</span>
+                </div>
+            </a>
+            
+            <a href="/en-gb/sports/american-football/select-competition/full-time-asian-handicap-and-over-under">
+            <div class="mk" id="selcomp7">
+                <span>View All Competitions</span>
+            </div>
+            </a>
+                 <!--Pre-Start Sport Menu-->
+                         <div class="c-n expand popularcomp">
+                            <span>Popular Competitions</span>
+                            <span class="c-btn"></span>
+                        </div>
+                        <div class="c-list">
+                            <a class="" href="/en-gb/sports/american-football/competition/full-time-asian-handicap-and-over-under?competitionids=41243">
+                                <div class="c" id="c41243">
+                                    <span>NFL - Outright</span>
+                                </div>
+                            </a>
+                             <a class="" href="/en-gb/sports/american-football/competition/full-time-asian-handicap-and-over-under?competitionids=28564">
+                                <div class="c" id="c28564">
+                                    <span>NFL</span>
+                                </div>
+                            </a>
+                             <a class="" href="/en-gb/sports/american-football/competition/full-time-asian-handicap-and-over-under?competitionids=27060">
+                                <div class="c" id="c27060">
+                                    <span>NCAA Football</span>
+                                </div>
+                            </a>
+                             <a class="hidden" href="/en-gb/sports/american-football/competition/full-time-asian-handicap-and-over-under?competitionids=27012">
+                                <div class="c" id="c27012">
+                                    <span>CFL - Canada Football League</span>
+                                </div>
+                            </a>
+                         </div>
+          </div>
+    <!--Outright Type-->
+     <!--Display Competition Count for First Sport :  Display Competition Count for Other Sports-->
+    <!--Other Sports-->
+    <!--Football Type-->
+             <div id="spt21" class="sp-t">
+                <span class="mx-content"><span>Snooker / Pool</span></span>
+                <span class="c-btn"></span>
+            </div>
+        <div class="mk-list" style="display: none; ">
+            <a>
+                <div class="mk noevent" id="s21">
+                    <span>Matches</span>
+                    <span class="counter-nonip">0</span>
+                </div>
+            </a>
+            <a href="/en-gb/sports/snooker/in-play/full-time-asian-handicap-and-over-under">
+                <div class="mk">
+                    <span class="ip-txt">In-Play</span>
+                    <span>Matches</span>
+                    <span class="counter-ip" title="Number of In-Play Events">1</span>
+                </div>
+            </a>
+             <a href="/en-gb/sports/snooker/competition/outright">
+                <div class="mk" id="or21">
+                    <span>Outright Markets</span>
+                </div>
+            </a>
+            
+            <a href="/en-gb/sports/snooker/select-competition/full-time-asian-handicap-and-over-under">
+            <div class="mk" id="selcomp21">
+                <span>View All Competitions</span>
+            </div>
+            </a>
+                 <!--Pre-Start Sport Menu-->
+                         <div class="c-n expand popularcomp">
+                            <span>Popular Competitions</span>
+                            <span class="c-btn"></span>
+                        </div>
+                        <div class="c-list">
+                            <a class="" href="/en-gb/sports/snooker/competition/full-time-asian-handicap-and-over-under?competitionids=32723">
+                                <div class="c" id="c32723">
+                                    <span>Snooker - World Championship (In England)</span>
+                                </div>
+                            </a>
+                         </div>
+          </div>
+    <!--Outright Type-->
+     <!--Display Competition Count for First Sport :  Display Competition Count for Other Sports-->
+    <!--Other Sports-->
+    <!--Football Type-->
+             <div id="spt4" class="sp-t">
+                <span class="mx-content"><span>Baseball</span></span>
+                <span class="c-btn"></span>
+            </div>
+        <div class="mk-list" style="display: none; ">
+            <a href="/en-gb/sports/baseball">
+                <div class="mk" id="s4">
+                    <span>Matches</span>
+                    <span class="counter-nonip">1</span>
+                </div>
+            </a>
+             
+            <a href="/en-gb/sports/baseball/select-competition/full-time-asian-handicap-and-over-under">
+            <div class="mk" id="selcomp4">
+                <span>View All Competitions</span>
+            </div>
+            </a>
+                 <!--Pre-Start Sport Menu-->
+                         <div class="c-n expand popularcomp">
+                            <span>Popular Competitions</span>
+                            <span class="c-btn"></span>
+                        </div>
+                        <div class="c-list">
+                            <a class="" href="/en-gb/sports/baseball/competition/full-time-asian-handicap-and-over-under?competitionids=31009">
+                                <div class="c" id="c31009">
+                                    <span>Nippon Professional Baseball (Japan Series)</span>
+                                </div>
+                            </a>
+                         </div>
+          </div>
+    <!--Outright Type-->
+     <!--Display Competition Count for First Sport :  Display Competition Count for Other Sports-->
+    <!--Other Sports-->
+    <!--Football Type-->
+             <div id="spt5" class="sp-t">
+                <span class="mx-content"><span>Golf</span></span>
+                <span class="c-btn"></span>
+            </div>
+        <div class="mk-list" style="display: none; ">
+            <a href="/en-gb/sports/golf">
+                <div class="mk" id="s5">
+                    <span class="mx-content">
+                        <span>All Golf</span>
+                    </span>
+              
+                </div>
+            </a>
+            <a href="/en-gb/sports/golf/select-competition/full-time-asian-handicap-and-over-under">
+            <div class="mk" id="selcomp5">
+                <span>View All Competitions</span>
+            </div>
+            </a>
+                 <!--Pre-Start Sport Menu-->
+                            <div class="c-n expand popularcomp">
+                            <span>Popular Competitions</span>
+                            <span class="c-btn"></span>
+                           </div>   
+                        <div class="c-list">
+                            <a class="" href="/en-gb/sports/golf/competition/full-time-asian-handicap-and-over-under?competitionids=30770">
+                                <div class="c" id="c30770">
+                                    <span>Golf - US Masters</span>
+                                </div>
+                            </a>
+                             <a class="" href="/en-gb/sports/golf/competition/full-time-asian-handicap-and-over-under?competitionids=30878">
+                                <div class="c" id="c30878">
+                                    <span>Golf - British Open</span>
+                                </div>
+                            </a>
+                             <a class="" href="/en-gb/sports/golf/competition/full-time-asian-handicap-and-over-under?competitionids=30600">
+                                <div class="c" id="c30600">
+                                    <span>Golf - Ryder Cup</span>
+                                </div>
+                            </a>
+                         </div>
+      
+        </div>
+     <!--Display Competition Count for First Sport :  Display Competition Count for Other Sports-->
+    <!--Other Sports-->
+    <!--Football Type-->
+             <div id="spt17" class="sp-t">
+                <span class="mx-content"><span>Motor Racing</span></span>
+                <span class="c-btn"></span>
+            </div>
+        <div class="mk-list" style="display: none; ">
+            <a href="/en-gb/sports/motor-racing">
+                <div class="mk" id="s17">
+                    <span class="mx-content">
+                        <span>All Motor Racing</span>
+                    </span>
+              
+                </div>
+            </a>
+            <a href="/en-gb/sports/motor-racing/select-competition/full-time-asian-handicap-and-over-under">
+            <div class="mk" id="selcomp17">
+                <span>View All Competitions</span>
+            </div>
+            </a>
+                 <!--Pre-Start Sport Menu-->
+                            <div class="c-n expand popularcomp">
+                            <span>Popular Competitions</span>
+                            <span class="c-btn"></span>
+                           </div>   
+                        <div class="c-list">
+                            <a class="" href="/en-gb/sports/motor-racing/competition/full-time-asian-handicap-and-over-under?competitionids=39819">
+                                <div class="c" id="c39819">
+                                    <span>F1 - Abu Dhabi Grand Prix</span>
+                                </div>
+                            </a>
+                             <a class="" href="/en-gb/sports/motor-racing/competition/full-time-asian-handicap-and-over-under?competitionids=39856">
+                                <div class="c" id="c39856">
+                                    <span>MotoGP - Valencia Grand Prix</span>
+                                </div>
+                            </a>
+                             <a class="" href="/en-gb/sports/motor-racing/competition/full-time-asian-handicap-and-over-under?competitionids=40119">
+                                <div class="c" id="c40119">
+                                    <span>F1 World Championship</span>
+                                </div>
+                            </a>
+                             <a class="hidden" href="/en-gb/sports/motor-racing/competition/full-time-asian-handicap-and-over-under?competitionids=44382">
+                                <div class="c" id="c44382">
+                                    <span>F1 - Special Betting</span>
+                                </div>
+                            </a>
+                             <a class="hidden" href="/en-gb/sports/motor-racing/competition/full-time-asian-handicap-and-over-under?competitionids=30775">
+                                <div class="c" id="c30775">
+                                    <span>MotoGP World Championship</span>
+                                </div>
+                            </a>
+                         </div>
+      
+        </div>
+     <!--Display Competition Count for First Sport :  Display Competition Count for Other Sports-->
+    <!--Other Sports-->
+         <div class="sp-t">
+            <span>Other Sports</span>
+            <span class="c-btn"></span>
+        </div>
+        <div class="otherspts-list" style="display: none; ">
+     <!--Football Type-->
+             <div id="spt14" class="otherspts">
+                <!--<span class="simg sport-icon14"></span>-->
+                <span class="mx-content"><span>Rugby</span></span>
+                <span class="c-btn"></span>
+            </div>
+        <div class="mk-list" style="display: none; ">
+            <a href="/en-gb/sports/rugby">
+                <div class="mk" id="s14">
+                    <span>Matches</span>
+                    <span class="counter-nonip">10</span>
+                </div>
+            </a>
+            <a href="/en-gb/sports/rugby/in-play/full-time-asian-handicap-and-over-under">
+                <div class="mk">
+                    <span class="ip-txt">In-Play</span>
+                    <span>Matches</span>
+                    <span class="counter-ip" title="Number of In-Play Events">1</span>
+                </div>
+            </a>
+             <a href="/en-gb/sports/rugby/competition/outright">
+                <div class="mk" id="or14">
+                    <span>Outright Markets</span>
+                </div>
+            </a>
+            
+            <a href="/en-gb/sports/rugby/select-competition/full-time-asian-handicap-and-over-under">
+            <div class="mk" id="selcomp14">
+                <span>View All Competitions</span>
+            </div>
+            </a>
+                 <!--Pre-Start Sport Menu-->
+         </div>
+    <!--Outright Type-->
+     <!--Display Competition Count for First Sport :  Display Competition Count for Other Sports-->
+    <!--Other Sports-->
+    <!--Football Type-->
+             <div id="spt13" class="otherspts">
+                <!--<span class="simg sport-icon13"></span>-->
+                <span class="mx-content"><span>Volleyball</span></span>
+                <span class="c-btn"></span>
+            </div>
+        <div class="mk-list" style="display: none; ">
+            <a href="/en-gb/sports/volleyball">
+                <div class="mk" id="s13">
+                    <span>Matches</span>
+                    <span class="counter-nonip">2</span>
+                </div>
+            </a>
+             
+            <a href="/en-gb/sports/volleyball/select-competition/full-time-asian-handicap-and-over-under">
+            <div class="mk" id="selcomp13">
+                <span>View All Competitions</span>
+            </div>
+            </a>
+                 <!--Pre-Start Sport Menu-->
+         </div>
+    <!--Outright Type-->
+     <!--Display Competition Count for First Sport :  Display Competition Count for Other Sports-->
+    <!--Other Sports-->
+    <!--Football Type-->
+             <div id="spt26" class="otherspts">
+                <!--<span class="simg sport-icon26"></span>-->
+                <span class="mx-content"><span>Ice Hockey</span></span>
+                <span class="c-btn"></span>
+            </div>
+        <div class="mk-list" style="display: none; ">
+            <a href="/en-gb/sports/ice-hockey">
+                <div class="mk" id="s26">
+                    <span>Matches</span>
+                    <span class="counter-nonip">15</span>
+                </div>
+            </a>
+             <a href="/en-gb/sports/ice-hockey/competition/outright">
+                <div class="mk" id="or26">
+                    <span>Outright Markets</span>
+                </div>
+            </a>
+            
+            <a href="/en-gb/sports/ice-hockey/select-competition/full-time-asian-handicap-and-over-under">
+            <div class="mk" id="selcomp26">
+                <span>View All Competitions</span>
+            </div>
+            </a>
+                 <!--Pre-Start Sport Menu-->
+         </div>
+    <!--Outright Type-->
+     <!--Display Competition Count for First Sport :  Display Competition Count for Other Sports-->
+    <!--Other Sports-->
+    <!--Football Type-->
+             <div id="spt16" class="otherspts">
+                <!--<span class="simg sport-icon16"></span>-->
+                <span class="mx-content"><span>Handball</span></span>
+                <span class="c-btn"></span>
+            </div>
+        <div class="mk-list" style="display: none; ">
+            <a href="/en-gb/sports/handball">
+                <div class="mk" id="s16">
+                    <span>Matches</span>
+                    <span class="counter-nonip">4</span>
+                </div>
+            </a>
+             <a href="/en-gb/sports/handball/competition/outright">
+                <div class="mk" id="or16">
+                    <span>Outright Markets</span>
+                </div>
+            </a>
+            
+            <a href="/en-gb/sports/handball/select-competition/full-time-asian-handicap-and-over-under">
+            <div class="mk" id="selcomp16">
+                <span>View All Competitions</span>
+            </div>
+            </a>
+                 <!--Pre-Start Sport Menu-->
+         </div>
+    <!--Outright Type-->
+     <!--Display Competition Count for First Sport :  Display Competition Count for Other Sports-->
+    <!--Other Sports-->
+    <!--Football Type-->
+             <div id="spt23" class="otherspts">
+                <!--<span class="simg sport-icon23"></span>-->
+                <span class="mx-content"><span>E-Sports</span></span>
+                <span class="c-btn"></span>
+            </div>
+        <div class="mk-list" style="display: none; ">
+            <a href="/en-gb/sports/e-sports">
+                <div class="mk" id="s23">
+                    <span>Matches</span>
+                    <span class="counter-nonip">2</span>
+                </div>
+            </a>
+             
+            <a href="/en-gb/sports/e-sports/select-competition/full-time-asian-handicap-and-over-under">
+            <div class="mk" id="selcomp23">
+                <span>View All Competitions</span>
+            </div>
+            </a>
+                 <!--Pre-Start Sport Menu-->
+         </div>
+    <!--Outright Type-->
+     <!--Display Competition Count for First Sport :  Display Competition Count for Other Sports-->
+    <!--Other Sports-->
+    <!--Football Type-->
+             <div id="spt11" class="otherspts">
+                <!--<span class="simg sport-icon11"></span>-->
+                <span class="mx-content"><span>Miss Universe</span></span>
+                <span class="c-btn"></span>
+            </div>
+        <div class="mk-list" style="display: none; ">
+            <a href="/en-gb/sports/miss-universe">
+                <div class="mk" id="s11">
+                    <span class="mx-content">
+                        <span>All Miss Universe</span>
+                    </span>
+              
+                </div>
+            </a>
+            <a href="/en-gb/sports/miss-universe/select-competition/full-time-asian-handicap-and-over-under">
+            <div class="mk" id="selcomp11">
+                <span>View All Competitions</span>
+            </div>
+            </a>
+                 <!--Pre-Start Sport Menu-->
+     
+        </div>
+     <!--Display Competition Count for First Sport :  Display Competition Count for Other Sports-->
+    <!--Other Sports-->
+    <!--Football Type-->
+             <div id="spt25" class="otherspts">
+                <!--<span class="simg sport-icon25"></span>-->
+                <span class="mx-content"><span>Darts</span></span>
+                <span class="c-btn"></span>
+            </div>
+        <div class="mk-list" style="display: none; ">
+            <a>
+                <div class="mk noevent" id="s25">
+                    <span>Matches</span>
+                    <span class="counter-nonip">0</span>
+                </div>
+            </a>
+             <a href="/en-gb/sports/darts/competition/outright">
+                <div class="mk" id="or25">
+                    <span>Outright Markets</span>
+                </div>
+            </a>
+            
+            <a href="/en-gb/sports/darts/select-competition/full-time-asian-handicap-and-over-under">
+            <div class="mk" id="selcomp25">
+                <span>View All Competitions</span>
+            </div>
+            </a>
+                 <!--Pre-Start Sport Menu-->
+         </div>
+    <!--Outright Type-->
+     <!--Display Competition Count for First Sport :  Display Competition Count for Other Sports-->
+    <!--Other Sports-->
+    <!--Football Type-->
+             <div id="spt8" class="otherspts">
+                <!--<span class="simg sport-icon8"></span>-->
+                <span class="mx-content"><span>Boxing / Fighting</span></span>
+                <span class="c-btn"></span>
+            </div>
+        <div class="mk-list" style="display: none; ">
+            <a href="/en-gb/sports/boxing">
+                <div class="mk" id="s8">
+                    <span>Matches</span>
+                    <span class="counter-nonip">6</span>
+                </div>
+            </a>
+             
+            <a href="/en-gb/sports/boxing/select-competition/full-time-asian-handicap-and-over-under">
+            <div class="mk" id="selcomp8">
+                <span>View All Competitions</span>
+            </div>
+            </a>
+                 <!--Pre-Start Sport Menu-->
+         </div>
+    <!--Outright Type-->
+     <!--Display Competition Count for First Sport :  Display Competition Count for Other Sports-->
+    <!--Other Sports-->
+    <!--Football Type-->
+             <div id="spt6" class="otherspts">
+                <!--<span class="simg sport-icon6"></span>-->
+                <span class="mx-content"><span>Lottery</span></span>
+                <span class="c-btn"></span>
+            </div>
+        <div class="mk-list" style="display: none; ">
+            <a>
+                <div class="mk noevent" id="s6">
+                    <span>Matches</span>
+                    <span class="counter-nonip">0</span>
+                </div>
+            </a>
+             <a href="/en-gb/sports/lottery/competition/outright">
+                <div class="mk" id="or6">
+                    <span>Outright Markets</span>
+                </div>
+            </a>
+            
+            <a href="/en-gb/sports/lottery/select-competition/full-time-asian-handicap-and-over-under">
+            <div class="mk" id="selcomp6">
+                <span>View All Competitions</span>
+            </div>
+            </a>
+                 <!--Pre-Start Sport Menu-->
+         </div>
+    <!--Outright Type-->
+     <!--Display Competition Count for First Sport :  Display Competition Count for Other Sports-->
+    <!--Other Sports-->
+    <!--Football Type-->
+             <div id="spt18" class="otherspts">
+                <!--<span class="simg sport-icon18"></span>-->
+                <span class="mx-content"><span>Cricket</span></span>
+                <span class="c-btn"></span>
+            </div>
+        <div class="mk-list" style="display: none; ">
+            <a href="/en-gb/sports/cricket">
+                <div class="mk" id="s18">
+                    <span>Matches</span>
+                    <span class="counter-nonip">2</span>
+                </div>
+            </a>
+             <a href="/en-gb/sports/cricket/competition/outright">
+                <div class="mk" id="or18">
+                    <span>Outright Markets</span>
+                </div>
+            </a>
+            
+            <a href="/en-gb/sports/cricket/select-competition/full-time-asian-handicap-and-over-under">
+            <div class="mk" id="selcomp18">
+                <span>View All Competitions</span>
+            </div>
+            </a>
+                 <!--Pre-Start Sport Menu-->
+         </div>
+    <!--Outright Type-->
+     <!--Display Competition Count for First Sport :  Display Competition Count for Other Sports-->
+    <!--Other Sports-->
+    <!--Football Type-->
+             <div id="spt10" class="otherspts">
+                <!--<span class="simg sport-icon10"></span>-->
+                <span class="mx-content"><span>Financial Bets</span></span>
+                <span class="c-btn"></span>
+            </div>
+        <div class="mk-list" style="display: none; ">
+            <a>
+                <div class="mk noevent" id="s10">
+                    <span>Matches</span>
+                    <span class="counter-nonip">0</span>
+                </div>
+            </a>
+             <a href="/en-gb/sports/financial-bets/competition/outright">
+                <div class="mk" id="or10">
+                    <span>Outright Markets</span>
+                </div>
+            </a>
+            
+            <a href="/en-gb/sports/financial-bets/select-competition/full-time-asian-handicap-and-over-under">
+            <div class="mk" id="selcomp10">
+                <span>View All Competitions</span>
+            </div>
+            </a>
+                 <!--Pre-Start Sport Menu-->
+         </div>
+    <!--Outright Type-->
+     <!--Display Competition Count for First Sport :  Display Competition Count for Other Sports-->
+    <!--Other Sports-->
+    <!--Football Type-->
+             <div id="spt15" class="otherspts">
+                <!--<span class="simg sport-icon15"></span>-->
+                <span class="mx-content"><span>Special Events</span></span>
+                <span class="c-btn"></span>
+            </div>
+        <div class="mk-list" style="display: none; ">
+            <a href="/en-gb/sports/others">
+                <div class="mk" id="s15">
+                    <span class="mx-content">
+                        <span>All Special Events</span>
+                    </span>
+              
+                </div>
+            </a>
+            <a href="/en-gb/sports/others/select-competition/full-time-asian-handicap-and-over-under">
+            <div class="mk" id="selcomp15">
+                <span>View All Competitions</span>
+            </div>
+            </a>
+                 <!--Pre-Start Sport Menu-->
+     
+        </div>
+       </div>
+</div></div>
+    <div id="tab-InPlay" class="ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide"><div id="inplay_main_container">
+    <div class="sec-t">
+        <span class="fc">All Sports</span>
+    </div>
+    <div class="ip-list">
+        <div id="view_all" class="ip">
+            <span>View All Matches</span>
+            <span class="counter-ip hidden" title="Number of In-Play Events">20</span>
+        </div>
+    </div>
+    <div id="my_fav" class="sec-t inactive">
+        <span class="">My Favourites</span>
+        <span class="c-btn"></span>
+    </div>
+    <div id="fav_list" class="fav-list">                      
+    </div>
+    <div id="no_fav" class="NoFav">
+        <!-- Replace keywords with add-fav icon HTML -->
+        To add events to ‘My Favourites’, click the <span class="icon-fav"></span> icon. To remove an event, click the <span class="icon-fav-selected"></span> icon.        
+    </div>
+      <div class="sp-t expand">
+        <span class=""><span>Football</span></span>
+        <span class="c-btn"></span>
+    </div>
+    <div class="mk-list">
+        <div id="football_1" class="mk">
+            <span>View All Matches</span>
+            <span class="counter-ip hidden" title="Number of In-Play Events">16</span>
+        </div>
+        <div class="e-list">
+          
+              <div id="lc44364" class="cname expand">
+                <span class="mx-content">
+                    <span>Korea K League Classic - PlayOff</span>
+                </span>
+                <span class="c-btn"></span>
+            </div>
+                <div class="e-t" id="e596794" cid="44364">
+                <div class="detail">
+                    <a class="e-n">
+                        <span>FC Seoul</span>
+                        <span class="vs">v</span>
+                        <span>Suwon Samsung Bluewings</span>
+                    </a>
+                    <div class="e-info">
+<span id="tm596794_l" class="time">65:02</span>                        
+                        <span class="divider">|</span>
+                        <span class="score">1 - 1</span>
+                         
+                     </div>                 
+                </div>
+                <span class="icon-fav fav" title="Add to Favourites"></span>
+                </div>
+                <div class="e-t" id="e596797" cid="44364">
+                <div class="detail">
+                    <a class="e-n">
+                        <span>Chunnam Dragons</span>
+                        <span class="vs">v</span>
+                        <span>Jeju United</span>
+                    </a>
+                    <div class="e-info">
+<span id="tm596797_l" class="time">23:41</span>                        
+                        <span class="divider">|</span>
+                        <span class="score">0 - 0</span>
+                         
+                     </div>                 
+                </div>
+                <span class="icon-fav fav" title="Add to Favourites"></span>
+                </div>
+           
+              <div id="lc27577" class="cname expand">
+                <span class="mx-content">
+                    <span>Korea National League</span>
+                </span>
+                <span class="c-btn"></span>
+            </div>
+                <div class="e-t" id="e596778" cid="27577">
+                <div class="detail">
+                    <a class="e-n">
+                        <span>Changwon City FC</span>
+                        <span class="vs">v</span>
+                        <span>Ulsan Hyundai Mipo FC</span>
+                    </a>
+                    <div class="e-info">
+<span id="tm596778_l" class="time">23:40</span>                        
+                        <span class="divider">|</span>
+                        <span class="score">0 - 0</span>
+                         
+                     </div>                 
+                </div>
+                <span class="icon-fav fav" title="Add to Favourites"></span>
+                </div>
+                <div class="e-t" id="e596779" cid="27577">
+                <div class="detail">
+                    <a class="e-n">
+                        <span>Busan Transportation Corp FC</span>
+                        <span class="vs">v</span>
+                        <span>Incheon Korail FC</span>
+                    </a>
+                    <div class="e-info">
+<span id="tm596779_l" class="time">23:22</span>                        
+                        <span class="divider">|</span>
+                        <span class="score">0 - 0</span>
+                         
+                     </div>                 
+                </div>
+                <span class="icon-fav fav" title="Add to Favourites"></span>
+                </div>
+                <div class="e-t" id="e596780" cid="27577">
+                <div class="detail">
+                    <a class="e-n">
+                        <span>Gangneung City FC</span>
+                        <span class="vs">v</span>
+                        <span>Cheonan City FC</span>
+                    </a>
+                    <div class="e-info">
+<span id="tm596780_l" class="time">23:54</span>                        
+                        <span class="divider">|</span>
+                        <span class="score">0 - 1</span>
+                         
+                     </div>                 
+                </div>
+                <span class="icon-fav fav" title="Add to Favourites"></span>
+                </div>
+                <div class="e-t" id="e596782" cid="27577">
+                <div class="detail">
+                    <a class="e-n">
+                        <span>Gimhae City FC</span>
+                        <span class="vs">v</span>
+                        <span>Yongin City FC</span>
+                    </a>
+                    <div class="e-info">
+<span id="tm596782_l" class="time">21:36</span>                        
+                        <span class="divider">|</span>
+                        <span class="score">0 - 1</span>
+                         
+                     </div>                 
+                </div>
+                <span class="icon-fav fav" title="Add to Favourites"></span>
+                </div>
+           
+              <div id="lc28129" class="cname expand">
+                <span class="mx-content">
+                    <span>China League 1</span>
+                </span>
+                <span class="c-btn"></span>
+            </div>
+                <div class="e-t" id="e596659" cid="28129">
+                <div class="detail">
+                    <a class="e-n">
+                        <span>Shenzhen Ruby</span>
+                        <span class="vs">v</span>
+                        <span>Henan Jianye</span>
+                    </a>
+                    <div class="e-info">
+<span id="tm596659_l" class="time">21:53</span>                        
+                        <span class="divider">|</span>
+                        <span class="score">1 - 0</span>
+                         
+                     </div>                 
+                </div>
+                <span class="icon-fav fav" title="Add to Favourites"></span>
+                </div>
+                <div class="e-t" id="e596660" cid="28129">
+                <div class="detail">
+                    <a class="e-n">
+                        <span>Tianjin Songjiang</span>
+                        <span class="vs">v</span>
+                        <span>Guizhou Zhicheng</span>
+                    </a>
+                    <div class="e-info">
+<span id="tm596660_l" class="time">24:44</span>                        
+                        <span class="divider">|</span>
+                        <span class="score">1 - 0</span>
+                         
+                     </div>                 
+                </div>
+                <span class="icon-fav fav" title="Add to Favourites"></span>
+                </div>
+                <div class="e-t" id="e596661" cid="28129">
+                <div class="detail">
+                    <a class="e-n">
+                        <span>Hubei Huakaier</span>
+                        <span class="vs">v</span>
+                        <span>Chengdu Xiefeilian</span>
+                    </a>
+                    <div class="e-info">
+<span id="tm596661_l" class="time">23:21</span>                        
+                        <span class="divider">|</span>
+                        <span class="score">0 - 0</span>
+                         
+                     </div>                 
+                </div>
+                <span class="icon-fav fav" title="Add to Favourites"></span>
+                </div>
+                <div class="e-t" id="e596662" cid="28129">
+                <div class="detail">
+                    <a class="e-n">
+                        <span>Chongqing Lifan</span>
+                        <span class="vs">v</span>
+                        <span>Hunan Xiangtao</span>
+                    </a>
+                    <div class="e-info">
+<span id="tm596662_l" class="time">24:36</span>                        
+                        <span class="divider">|</span>
+                        <span class="score">2 - 0</span>
+                         
+                     </div>                 
+                </div>
+                <span class="icon-fav fav" title="Add to Favourites"></span>
+                </div>
+                <div class="e-t" id="e596663" cid="28129">
+                <div class="detail">
+                    <a class="e-n">
+                        <span>Guangdong Sunray Cave</span>
+                        <span class="vs">v</span>
+                        <span>Chongqing FC</span>
+                    </a>
+                    <div class="e-info">
+<span id="tm596663_l" class="time">23:51</span>                        
+                        <span class="divider">|</span>
+                        <span class="score">0 - 0</span>
+                         
+                     </div>                 
+                </div>
+                <span class="icon-fav fav" title="Add to Favourites"></span>
+                </div>
+                <div class="e-t" id="e596664" cid="28129">
+                <div class="detail">
+                    <a class="e-n">
+                        <span>Beijing Baxy</span>
+                        <span class="vs">v</span>
+                        <span>Shenyang Shenbei</span>
+                    </a>
+                    <div class="e-info">
+<span id="tm596664_l" class="time">24:26</span>                        
+                        <span class="divider">|</span>
+                        <span class="score">1 - 0</span>
+                         
+                     </div>                 
+                </div>
+                <span class="icon-fav fav" title="Add to Favourites"></span>
+                </div>
+                <div class="e-t" id="e596665" cid="28129">
+                <div class="detail">
+                    <a class="e-n">
+                        <span>Harbin Yiteng</span>
+                        <span class="vs">v</span>
+                        <span>Beijing Ligong University</span>
+                    </a>
+                    <div class="e-info">
+<span id="tm596665_l" class="time">22:14</span>                        
+                        <span class="divider">|</span>
+                        <span class="score">2 - 0</span>
+                         
+                     </div>                 
+                </div>
+                <span class="icon-fav fav" title="Add to Favourites"></span>
+                </div>
+                <div class="e-t" id="e596666" cid="28129">
+                <div class="detail">
+                    <a class="e-n">
+                        <span>Shijiazhuang Yongchang Junhao</span>
+                        <span class="vs">v</span>
+                        <span>Yanbian Baekdu Tigers</span>
+                    </a>
+                    <div class="e-info">
+<span id="tm596666_l" class="time">23:49</span>                        
+                        <span class="divider">|</span>
+                        <span class="score">0 - 0</span>
+                         
+                     </div>                 
+                </div>
+                <span class="icon-fav fav" title="Add to Favourites"></span>
+                </div>
+           
+              <div id="lc29118" class="cname">
+                <span class="mx-content">
+                    <span>Japan Youth Cup</span>
+                </span>
+                <span class="c-btn"></span>
+            </div>
+                <div class="e-t hidden" id="e600032" cid="29118">
+                <div class="detail">
+                    <a class="e-n">
+                        <span>Roasso Kumamoto (Youth)</span>
+                        <span class="vs">v</span>
+                        <span>Avispa Fukuoka (Youth)</span>
+                    </a>
+                    <div class="e-info">
+<span id="tm600032_l" class="time">69:06</span>                        
+                        <span class="divider">|</span>
+                        <span class="score">3 - 4</span>
+                         
+                     </div>                 
+                </div>
+                <span class="icon-fav fav" title="Add to Favourites"></span>
+                </div>
+                <div class="e-t hidden" id="e600033" cid="29118">
+                <div class="detail">
+                    <a class="e-n">
+                        <span>Yokohama Marinos (Youth)</span>
+                        <span class="vs">v</span>
+                        <span>Vegalta Sendai (Youth)</span>
+                    </a>
+                    <div class="e-info">
+<span id="tm600033_l" class="time">67:31</span>                        
+                        <span class="divider">|</span>
+                        <span class="score">1 - 1</span>
+                         
+                     </div>                 
+                </div>
+                <span class="icon-fav fav" title="Add to Favourites"></span>
+                </div>
+         </div>
+         
+    </div>        
+     <div class="sp-t expand">
+        <span class=""><span>Basketball</span></span>
+        <span class="c-btn"></span>
+    </div>
+    <div class="mk-list">
+        <div id="basketball_2" class="mk">
+            <span>View All Matches</span>
+            <span class="counter-ip hidden" title="Number of In-Play Events">2</span>
+        </div>
+        <div class="e-list">
+          
+              <div id="lc26693" class="cname expand">
+                <span class="mx-content">
+                    <span>Korea Basketball League</span>
+                </span>
+                <span class="c-btn"></span>
+            </div>
+                <div class="e-t" id="e599331" cid="26693">
+                <div class="detail">
+                    <a class="e-n">
+                        <span>Goyang Orions</span>
+                        <span class="vs">v</span>
+                        <span>Jeonju KCC Egis</span>
+                    </a>
+                    <div class="e-info">
+<span class="ip-txt">In-Play</span>                        
+                         
+                     </div>                 
+                </div>
+                <span class="icon-fav fav" title="Add to Favourites"></span>
+                </div>
+                <div class="e-t" id="e599332" cid="26693">
+                <div class="detail">
+                    <a class="e-n">
+                        <span>Incheon ET Land Elephants</span>
+                        <span class="vs">v</span>
+                        <span>Seoul SK Knights</span>
+                    </a>
+                    <div class="e-info">
+<span class="ip-txt">In-Play</span>                        
+                         
+                     </div>                 
+                </div>
+                <span class="icon-fav fav" title="Add to Favourites"></span>
+                </div>
+         </div>
+         
+    </div>        
+     <div class="sp-t expand">
+        <span class=""><span>Snooker / Pool</span></span>
+        <span class="c-btn"></span>
+    </div>
+    <div class="mk-list">
+        <div id="snooker_21" class="mk">
+            <span>View All Matches</span>
+            <span class="counter-ip hidden" title="Number of In-Play Events">1</span>
+        </div>
+        <div class="e-list">
+          
+              <div id="lc40000" class="cname expand">
+                <span class="mx-content">
+                    <span>Snooker - International Championship (In China)</span>
+                </span>
+                <span class="c-btn"></span>
+            </div>
+                <div class="e-t" id="e600252" cid="40000">
+                <div class="detail">
+                    <a class="e-n">
+                        <span>Ding Junhui</span>
+                        <span class="vs">v</span>
+                        <span>Graeme Dott</span>
+                    </a>
+                    <div class="e-info">
+<span class="ip-txt">In-Play</span>                        
+                         
+                     </div>                 
+                </div>
+                <span class="icon-fav fav" title="Add to Favourites"></span>
+                </div>
+         </div>
+         
+    </div>        
+     <div class="sp-t expand">
+        <span class=""><span>Rugby</span></span>
+        <span class="c-btn"></span>
+    </div>
+    <div class="mk-list">
+        <div id="rugby_14" class="mk">
+            <span>View All Matches</span>
+            <span class="counter-ip hidden" title="Number of In-Play Events">1</span>
+        </div>
+        <div class="e-list">
+          
+              <div id="lc26254" class="cname expand">
+                <span class="mx-content">
+                    <span>Rugby Union - International Match</span>
+                </span>
+                <span class="c-btn"></span>
+            </div>
+                <div class="e-t" id="e598257" cid="26254">
+                <div class="detail">
+                    <a class="e-n">
+                        <span>Japan</span>
+                        <span class="vs">v</span>
+                        <span>New Zealand</span>
+                    </a>
+                    <div class="e-info">
+<span class="ip-txt">In-Play</span>                        
+                         
+                     </div>                 
+                </div>
+                <span class="icon-fav fav" title="Add to Favourites"></span>
+                </div>
+         </div>
+         
+    </div>        
+</div></div>
+</div>
+
+<script language="javascript" type="text/javascript">    li.userUi = "ASIAN"; li.sp = "../../../../en-gb/sports/"; li.id = "0"; li.pageN = ""; li.oddsType = "MALAY";</script>
+
+<script language="javascript" type="text/javascript">
+    var lpc = { mt:1, it:4, st:1, ss:"1", sc:"26726", se:"0", sit:"", ssp:"" , otv:"unknown"};
+</script>
+
+
+    </div>
+    
+    <script language="javascript" type="text/javascript"></script>
+    <div class="content simplified  o">
+		<div id="OddsMask" style="max-width: 1000px; max-height: 5000px; "></div>
+        
+<div id="headerContainer">
+    <div class="ui-tabs ui-widget ui-widget-content ui-corner-all">
+        <ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
+            <li class="btn-vm">
+                <a id="id-VM" href="/en-gb/sports/football/competition/full-time-asian-handicap-and-over-under?competitionids=26726&amp;view=advanced">
+                    <span>View Menu</span>
+                </a>
+            </li>
+            <li class="ui-state-default ui-corner-top  ">
+                <a href="/en-gb/sports/football/matches-by-date/today/full-time-asian-handicap-and-over-under?date=today">Today</a>
+            </li>
+            <li class="ui-state-default ui-corner-top  ">
+                <a href="/en-gb/sports/football/matches-by-date/tomorrow/full-time-asian-handicap-and-over-under">Future</a>
+            </li>
+            <li class="ui-state-default ui-corner-top  ui-tabs-selected ui-state-active">                
+                
+                    <a href="/en-gb/sports/football/select-competition/full-time-asian-handicap-and-over-under">Events by Competition</a>
+               
+            </li>
+            <li class="ui-state-default ui-corner-top ">
+                <a id="inPlayTabLink" href="/en-gb/sports/all/in-play/full-time-asian-handicap-and-over-under">In-Play</a>
+                <!--<div id="inplayCounter" class="f">20</div> -->
+            </li>
+            <li class="ui-state-default ui-corner-top  FavBtn">
+                <a id="lnkFavBtn" title="Favourites" class="default-enable" href="/en-gb/sports/all/favourite/full-time-asian-handicap-and-over-under">
+                </a>
+            </li>              
+            <li class="btn">
+            <div class="tool_field">
+            
+
+            <a id="lnk-view" class="change" href="/en-gb/sports/football/competition/full-time-asian-handicap-and-over-under?competitionids=26726&amp;view=advanced "> Advanced View</a>
+
+               
+
+
+        <a id="text_ddlOFmt" href="javascript:void(0)" class="ddl-text dropdown odds-type">Malay</a><input name="ddlOFmt" id="ddlOFmt" value="3" type="hidden">
+
+
+            </div>
+            </li>
+        </ul>
+        <div class="tab-vm hidden">
+            <a id="id-VM" href="/en-gb/sports/football/competition/full-time-asian-handicap-and-over-under?competitionids=26726&amp;view=advanced "></a>
+        </div>
+        <div id="view-setting" class="view-setting">
+            <ul class="st-user-info">
+            <li class="st-label">Preferred Odds View:</li>
+              <li class="st-fields">
+                  <a id="text_oddsDDL" href="javascript:void(0)" class="ddl-text sel statusDLL">Malay</a><input name="oddsDDL" id="oddsDDL" value="3" type="hidden">
+              </li>
+              <li class="st-fields">
+              </li>
+            </ul>
+            <ul class="st-user-info">
+            <li class="st-label">Preferred Odds Table View:</li>
+              <li class="st-fields">
+                  <a id="text_preferredOddsTableViewDDL" href="javascript:void(0)" class="ddl-text sel statusDLL">----</a><input name="preferredOddsTableViewDDL" id="preferredOddsTableViewDDL" value="0" type="hidden">
+                </li>
+            </ul>
+            <ul class="st-user-info">
+            <li class="st-label">Default Bet Type View:</li>
+              <li class="st-fields">
+                  <a id="text_preferredOddsTableBetTypeDDL" href="javascript:void(0)" class="ddl-text sel statusDLL">----</a><input name="preferredOddsTableBetTypeDDL" id="preferredOddsTableBetTypeDDL" value="0" type="hidden">
+                </li>
+            </ul>
+            <ul class="st-user-info">
+            <li class="st-label">Default Odds Layout View:</li>
+              <li class="st-fields">
+                  <a id="text_preferredAsianHandicapView" href="javascript:void(0)" class="ddl-text sel statusDLL">----</a><input name="preferredAsianHandicapView" id="preferredAsianHandicapView" value="0" type="hidden">
+                </li>
+            </ul>
+
+            <div class="divider"></div>
+            <div class="btn">
+                <div class="btnp_l">
+                <a class="sub1" id="sub1" href="javascript:void(0)" onclick="subForm();">Submit</a>
+                </div>
+                <div class="btnp_r">
+                <a class="sub2" id="sub2" href="javascript:void(0)">Cancel</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="top-nav" id="topNavOp">
+    <div class="bar">
+
+    <a id="text_ddlBetTypes" href="javascript:void(0)" class="ddl-text dropdown" title="Handicap &amp; Over / Under" style="display: block; ">Handicap &amp; Over / Under</a><input name="ddlBetTypes" id="ddlBetTypes" value="" type="hidden" selectedindex="0">
+
+
+    
+
+        <a id="text_ddlSortBy" href="javascript:void(0)" class="ddl-text dropdown sort-by" title="Sort By">Competitions</a><input name="ddlSortBy" id="ddlSortBy" value="1" type="hidden">
+
+    <span class="right">
+
+
+    
+    <span class="pager" id="lbPager" style="display: none; ">Page:</span><a id="text_ddlPaging" href="javascript:void(0)" class="ddl-text dropdown" style="display: none; ">1/1</a><input name="ddlPaging" id="ddlPaging" value="" type="hidden" style="display: none; " selectedindex="0">
+    
+    </span>
+    <div class="hidden" id="divHdBetTypes"></div><div class="hidden" id="divHdSports"></div>
+    <div class="hidden" id="noMatch">
+    <div class="odds-tbl three-line"><div class="l2-n-mch">
+
+
+
+    
+    <a href="javascript:void(0)" class="btnSelectCompetition btn1">Select Competitions</a>
+    
+<a class="timer" href="javascript:void(0)" title="Refresh">90</a>
+
+
+    <span class="t w270">There is no event for the selection.</span></div></div>
+    </div>
+    </div>
+    <div style="display:none">
+    <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        o.param={Tab:'Competition',UIBetType:'ftahou',SportId:'1',IsInplay:false};
+        om.initTab();
+        o.lclBetTypeName='Handicap & Over / Under';
+        o.lclSportName='';
+        opScoreSetting = '1,4,19,22,24,26,29';//'1,4,19,22,24,26,29';
+        lcl = {NeutralText: l.neut, LiveText: l.LiveText};
+        o.vars.favURL = '/en-gb/sports/all/favourite/full-time-asian-handicap-and-over-under';
+        o.vars.inplayURL = '/en-gb/sports/all/in-play/full-time-asian-handicap-and-over-under';
+        o.vars.dateTitle = 'Competitions';
+        o.vars.lnkView = '/en-gb/sports/football/competition/full-time-asian-handicap-and-over-under?competitionids=26726&view=advanced';
+        //]]>
+    </script>
+    </div>
+</div>
+
+        <div id="odds-tbl-containers"><div id="container0" class="container"><div class="odds-tbl three-line"> <div class="l0" id="Football" name="1"><span class="tableName ellipsis">Football Asian Handicap</span><a class="timer" href="javascript:void(0)" title="Refresh"></a><a href="javascript:void(0)" class="btnSelectCompetition btn1">Select Competitions</a></div><div class="l1"> <span class="tm">Time</span> <span class="e">Event(s)</span> <span class="f-t">Full Time</span> </div>  <div class="l2" id="c26726"> <a href="javascript:void(0)" class="coll"></a> <span class="t ellipsis w180" title="English Premier League">English Premier League</span> <span class="oxt">1x2</span> <span class="ha">Handicap</span> <span class="o-u">Over / Under</span> <a href="javascript:void(0)" class="ref" title="Refresh"></a> </div> <table class="tbl" border="0" cellpadding="0" cellspacing="0"> <colgroup> <col width="40"> <col width="204"> <col width="12"> <col width="46"> <col width="93"> <col width="93"> <col width="40"> </colgroup> <tbody> <tr id="e582487" class="even"><td class="c-e-dt"><a id="lv582487" class="live" title="Upcoming In-Play"></a><span id="ed582487">02/11</span><span id="et582487" class="timer">19:45</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582487" title="Newcastle United" class="h-w-w">Newcastle United</span></div><div class="e-n-r row2"><span id="at582487" title="Chelsea" class="a-w-w bold">Chelsea</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"><a id="lt582487" title="188TV - Live Streaming available when In-Play"></a></td><td class="c-1"><a href="javascript:void(0)" id="o336761616" title="Home">5.95</a><a href="javascript:void(0)" id="o336761617" title="Away">1.59</a><a href="javascript:void(0)" id="o336761618" title="Draw">4.10</a></td><td class="c-2"><span id="h336761638" class="had hide" hdp="+1">+1</span><a href="javascript:void(0)" id="o336761638" title="Home" class="">0.90</a><span id="h336761639" class="had" hdp="-1">1</span><a href="javascript:void(0)" id="o336761639" title="Away" class="n-o">-0.96</a></td><td class="c-2"><span id="h336761634" class="had" hdp="2.5/3">o2.5/3</span><a href="javascript:void(0)" id="o336761634" title="Over" class="">0.97</a><span id="h336761635" class="had" hdp="2.5/3">u2.5/3</span><a href="javascript:void(0)" id="o336761635" title="Under" class="">0.93</a></td><td class="c-btns"><a href="/en-gb/sports/582487" id="mb582487" class="m-b" title="More Bets">+51</a><a href="/en-gb/info-centre/sportsbook-info/statistics/582487" target="_blank" class="sta" title="Statistics"></a></td> </tr><tr id="e582487_2"><td class="c-e-dt"><a id="lv582487_2" class="live" title="Upcoming In-Play"></a><span id="ed582487_2">02/11</span><span id="et582487_2" class="timer">19:45</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582487_2" title="Newcastle United" class="h-w-w">Newcastle United</span></div><div class="e-n-r row2"><span id="at582487_2" title="Chelsea" class="a-w-w bold">Chelsea</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"></td><td class="c-1">&nbsp;</td><td class="c-2"><span id="h341711752" class="had hide" hdp="+0.5/1">+0.5/1</span><a href="javascript:void(0)" id="o341711752" title="Home" class="n-o">-0.80</a><span id="h341711753" class="had" hdp="-0.5/1">0.5/1</span><a href="javascript:void(0)" id="o341711753" title="Away" class="">0.74</a></td><td class="c-2"><span id="h341711756" class="had" hdp="2.5">o2.5</span><a href="javascript:void(0)" id="o341711756" title="Over" class="">0.77</a><span id="h341711757" class="had" hdp="2.5">u2.5</span><a href="javascript:void(0)" id="o341711757" title="Under" class="n-o">-0.87</a></td><td class="c-btns"></td></tr><tr id="e582487_3" class="even"><td class="c-e-dt"><a id="lv582487_3" class="live" title="Upcoming In-Play"></a><span id="ed582487_3">02/11</span><span id="et582487_3" class="timer">19:45</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582487_3" title="Newcastle United" class="h-w-w">Newcastle United</span></div><div class="e-n-r row2"><span id="at582487_3" title="Chelsea" class="a-w-w bold">Chelsea</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"></td><td class="c-1">&nbsp;</td><td class="c-2"><span id="h341711810" class="had hide" hdp="+1/1.5">+1/1.5</span><a href="javascript:void(0)" id="o341711810" title="Home" class="">0.69</a><span id="h341711811" class="had" hdp="-1/1.5">1/1.5</span><a href="javascript:void(0)" id="o341711811" title="Away" class="n-o">-0.75</a></td><td class="c-2"><span id="h341711816" class="had" hdp="3">o3</span><a href="javascript:void(0)" id="o341711816" title="Over" class="n-o">-0.79</a><span id="h341711817" class="had" hdp="3">u3</span><a href="javascript:void(0)" id="o341711817" title="Under" class="">0.69</a></td><td class="c-btns"></td></tr><tr id="e582487_4"><td class="c-e-dt"><a id="lv582487_4" class="live" title="Upcoming In-Play"></a><span id="ed582487_4">02/11</span><span id="et582487_4" class="timer">19:45</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582487_4" title="Newcastle United" class="h-w-w">Newcastle United</span></div><div class="e-n-r row2"><span id="at582487_4" title="Chelsea" class="a-w-w bold">Chelsea</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"></td><td class="c-1">&nbsp;</td><td class="c-2"><span id="h341711833" class="had hide" hdp="+0.5">+0.5</span><a href="javascript:void(0)" id="o341711833" title="Home" class="n-o">-0.66</a><span id="h341711834" class="had" hdp="-0.5">0.5</span><a href="javascript:void(0)" id="o341711834" title="Away" class="">0.60</a></td><td class="c-2"><span id="h341711839" class="had" hdp="2/2.5">o2/2.5</span><a href="javascript:void(0)" id="o341711839" title="Over" class="">0.58</a><span id="h341711840" class="had" hdp="2/2.5">u2/2.5</span><a href="javascript:void(0)" id="o341711840" title="Under" class="n-o">-0.68</a></td><td class="c-btns"></td></tr>    <tr id="e582488" class="even"><td class="c-e-dt"><a id="lv582488" class="live" title="Upcoming In-Play"></a><span id="ed582488">02/11</span><span id="et582488" class="timer">22:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582488" title="Fulham" class="h-w-w">Fulham</span></div><div class="e-n-r row2"><span id="at582488" title="Manchester United" class="a-w-w bold">Manchester United</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"><a id="lt582488" title="188TV - Live Streaming available when In-Play"></a></td><td class="c-1"><a href="javascript:void(0)" id="o336767554" title="Home">6.30</a><a href="javascript:void(0)" id="o336767555" title="Away">1.56</a><a href="javascript:void(0)" id="o336767556" title="Draw">4.10</a></td><td class="c-2"><span id="h336767578" class="had hide" hdp="+1">+1</span><a href="javascript:void(0)" id="o336767578" title="Home" class="">0.97</a><span id="h336767579" class="had" hdp="-1">1</span><a href="javascript:void(0)" id="o336767579" title="Away" class="">0.97</a></td><td class="c-2"><span id="h336767574" class="had" hdp="2.5/3">o2.5/3</span><a href="javascript:void(0)" id="o336767574" title="Over" class="">0.98</a><span id="h336767575" class="had" hdp="2.5/3">u2.5/3</span><a href="javascript:void(0)" id="o336767575" title="Under" class="">0.92</a></td><td class="c-btns"><a href="/en-gb/sports/582488" id="mb582488" class="m-b" title="More Bets">+51</a><a href="/en-gb/info-centre/sportsbook-info/statistics/582488" target="_blank" class="sta" title="Statistics"></a></td> </tr><tr id="e582488_2"><td class="c-e-dt"><a id="lv582488_2" class="live" title="Upcoming In-Play"></a><span id="ed582488_2">02/11</span><span id="et582488_2" class="timer">22:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582488_2" title="Fulham" class="h-w-w">Fulham</span></div><div class="e-n-r row2"><span id="at582488_2" title="Manchester United" class="a-w-w bold">Manchester United</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"></td><td class="c-1">&nbsp;</td><td class="c-2"><span id="h341711884" class="had hide" hdp="+0.5/1">+0.5/1</span><a href="javascript:void(0)" id="o341711884" title="Home" class="n-o">-0.78</a><span id="h341711885" class="had" hdp="-0.5/1">0.5/1</span><a href="javascript:void(0)" id="o341711885" title="Away" class="">0.72</a></td><td class="c-2"><span id="h341711888" class="had" hdp="2.5">o2.5</span><a href="javascript:void(0)" id="o341711888" title="Over" class="">0.77</a><span id="h341711889" class="had" hdp="2.5">u2.5</span><a href="javascript:void(0)" id="o341711889" title="Under" class="n-o">-0.87</a></td><td class="c-btns"></td></tr><tr id="e582488_3" class="even"><td class="c-e-dt"><a id="lv582488_3" class="live" title="Upcoming In-Play"></a><span id="ed582488_3">02/11</span><span id="et582488_3" class="timer">22:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582488_3" title="Fulham" class="h-w-w">Fulham</span></div><div class="e-n-r row2"><span id="at582488_3" title="Manchester United" class="a-w-w bold">Manchester United</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"></td><td class="c-1">&nbsp;</td><td class="c-2"><span id="h341711910" class="had hide" hdp="+1/1.5">+1/1.5</span><a href="javascript:void(0)" id="o341711910" title="Home" class="">0.70</a><span id="h341711911" class="had" hdp="-1/1.5">1/1.5</span><a href="javascript:void(0)" id="o341711911" title="Away" class="n-o">-0.76</a></td><td class="c-2"><span id="h341711912" class="had" hdp="3">o3</span><a href="javascript:void(0)" id="o341711912" title="Over" class="n-o">-0.76</a><span id="h341711915" class="had" hdp="3">u3</span><a href="javascript:void(0)" id="o341711915" title="Under" class="">0.66</a></td><td class="c-btns"></td></tr><tr id="e582488_4"><td class="c-e-dt"><a id="lv582488_4" class="live" title="Upcoming In-Play"></a><span id="ed582488_4">02/11</span><span id="et582488_4" class="timer">22:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582488_4" title="Fulham" class="h-w-w">Fulham</span></div><div class="e-n-r row2"><span id="at582488_4" title="Manchester United" class="a-w-w bold">Manchester United</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"></td><td class="c-1">&nbsp;</td><td class="c-2"><span id="h341711929" class="had hide" hdp="+0.5">+0.5</span><a href="javascript:void(0)" id="o341711929" title="Home" class="n-o">-0.63</a><span id="h341711930" class="had" hdp="-0.5">0.5</span><a href="javascript:void(0)" id="o341711930" title="Away" class="">0.57</a></td><td class="c-2"><span id="h341711931" class="had" hdp="2/2.5">o2/2.5</span><a href="javascript:void(0)" id="o341711931" title="Over" class="">0.58</a><span id="h341711932" class="had" hdp="2/2.5">u2/2.5</span><a href="javascript:void(0)" id="o341711932" title="Under" class="n-o">-0.68</a></td><td class="c-btns"></td></tr>    <tr id="e582491" class="even"><td class="c-e-dt"><a id="lv582491" class="live" title="Upcoming In-Play"></a><span id="ed582491">02/11</span><span id="et582491" class="timer">22:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582491" title="Stoke City" class="h-w-w">Stoke City</span></div><div class="e-n-r row2"><span id="at582491" title="Southampton" class="a-w-w bold">Southampton</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"><a id="lt582491" title="188TV - Live Streaming available when In-Play"></a></td><td class="c-1"><a href="javascript:void(0)" id="o336768155" title="Home">3.30</a><a href="javascript:void(0)" id="o336768156" title="Away">2.38</a><a href="javascript:void(0)" id="o336768157" title="Draw">3.15</a></td><td class="c-2"><span id="h336768181" class="had hide" hdp="+0/0.5">+0/0.5</span><a href="javascript:void(0)" id="o336768181" title="Home" class="">0.85</a><span id="h336768182" class="had" hdp="-0/0.5">0/0.5</span><a href="javascript:void(0)" id="o336768182" title="Away" class="n-o">-0.91</a></td><td class="c-2"><span id="h336768177" class="had" hdp="2">o2</span><a href="javascript:void(0)" id="o336768177" title="Over" class="">0.83</a><span id="h336768178" class="had" hdp="2">u2</span><a href="javascript:void(0)" id="o336768178" title="Under" class="n-o">-0.93</a></td><td class="c-btns"><a href="/en-gb/sports/582491" id="mb582491" class="m-b" title="More Bets">+51</a><a href="/en-gb/info-centre/sportsbook-info/statistics/582491" target="_blank" class="sta" title="Statistics"></a></td> </tr><tr id="e582491_2"><td class="c-e-dt"><a id="lv582491_2" class="live" title="Upcoming In-Play"></a><span id="ed582491_2">02/11</span><span id="et582491_2" class="timer">22:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582491_2" title="Stoke City" class="h-w-w">Stoke City</span></div><div class="e-n-r row2"><span id="at582491_2" title="Southampton" class="a-w-w">Southampton</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"></td><td class="c-1">&nbsp;</td><td class="c-2"><span id="h341712403" class="had" hdp="0">0</span><a href="javascript:void(0)" id="o341712403" title="Home" class="n-o">-0.79</a><span id="h341712404" class="had hide" hdp="0">0</span><a href="javascript:void(0)" id="o341712404" title="Away" class="">0.73</a></td><td class="c-2"><span id="h341712407" class="had" hdp="2/2.5">o2/2.5</span><a href="javascript:void(0)" id="o341712407" title="Over" class="n-o">-0.85</a><span id="h341712408" class="had" hdp="2/2.5">u2/2.5</span><a href="javascript:void(0)" id="o341712408" title="Under" class="">0.75</a></td><td class="c-btns"></td></tr><tr id="e582491_3" class="even"><td class="c-e-dt"><a id="lv582491_3" class="live" title="Upcoming In-Play"></a><span id="ed582491_3">02/11</span><span id="et582491_3" class="timer">22:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582491_3" title="Stoke City" class="h-w-w">Stoke City</span></div><div class="e-n-r row2"><span id="at582491_3" title="Southampton" class="a-w-w bold">Southampton</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"></td><td class="c-1">&nbsp;</td><td class="c-2"><span id="h341712426" class="had hide" hdp="+0.5">+0.5</span><a href="javascript:void(0)" id="o341712426" title="Home" class="">0.65</a><span id="h341712427" class="had" hdp="-0.5">0.5</span><a href="javascript:void(0)" id="o341712427" title="Away" class="n-o">-0.71</a></td><td class="c-2"><span id="h341712432" class="had" hdp="1.5/2">o1.5/2</span><a href="javascript:void(0)" id="o341712432" title="Over" class="">0.65</a><span id="h341712433" class="had" hdp="1.5/2">u1.5/2</span><a href="javascript:void(0)" id="o341712433" title="Under" class="n-o">-0.75</a></td><td class="c-btns"></td></tr><tr id="e582491_4"><td class="c-e-dt"><a id="lv582491_4" class="live" title="Upcoming In-Play"></a><span id="ed582491_4">02/11</span><span id="et582491_4" class="timer">22:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582491_4" title="Stoke City" class="h-w-w bold">Stoke City</span></div><div class="e-n-r row2"><span id="at582491_4" title="Southampton" class="a-w-w">Southampton</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"></td><td class="c-1">&nbsp;</td><td class="c-2"><span id="h341712438" class="had" hdp="-0/0.5">0/0.5</span><a href="javascript:void(0)" id="o341712438" title="Home" class="n-o">-0.56</a><span id="h341712439" class="had hide" hdp="+0/0.5">+0/0.5</span><a href="javascript:void(0)" id="o341712439" title="Away" class="">0.50</a></td><td class="c-2"><span id="h341712441" class="had" hdp="2.5">o2.5</span><a href="javascript:void(0)" id="o341712441" title="Over" class="n-o">-0.72</a><span id="h341712442" class="had" hdp="2.5">u2.5</span><a href="javascript:void(0)" id="o341712442" title="Under" class="">0.62</a></td><td class="c-btns"></td></tr>    <tr id="e582490" class="even"><td class="c-e-dt"><a id="lv582490" class="live" title="Upcoming In-Play"></a><span id="ed582490">02/11</span><span id="et582490" class="timer">22:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582490" title="Manchester City" class="h-w-w bold">Manchester City</span></div><div class="e-n-r row2"><span id="at582490" title="Norwich City" class="a-w-w">Norwich City</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"><a id="lt582490" title="188TV - Live Streaming available when In-Play"></a></td><td class="c-1"><a href="javascript:void(0)" id="o336767984" title="Home">1.22</a><a href="javascript:void(0)" id="o336767985" title="Away">11.50</a><a href="javascript:void(0)" id="o336767986" title="Draw">7.30</a></td><td class="c-2"><span id="h336768006" class="had" hdp="-1.5/2">1.5/2</span><a href="javascript:void(0)" id="o336768006" title="Home" class="">0.91</a><span id="h336768007" class="had hide" hdp="+1.5/2">+1.5/2</span><a href="javascript:void(0)" id="o336768007" title="Away" class="n-o">-0.97</a></td><td class="c-2"><span id="h336768002" class="had" hdp="3/3.5">o3/3.5</span><a href="javascript:void(0)" id="o336768002" title="Over" class="">1.00</a><span id="h336768003" class="had" hdp="3/3.5">u3/3.5</span><a href="javascript:void(0)" id="o336768003" title="Under" class="">0.90</a></td><td class="c-btns"><a href="/en-gb/sports/582490" id="mb582490" class="m-b" title="More Bets">+51</a><a href="/en-gb/info-centre/sportsbook-info/statistics/582490" target="_blank" class="sta" title="Statistics"></a></td> </tr><tr id="e582490_2"><td class="c-e-dt"><a id="lv582490_2" class="live" title="Upcoming In-Play"></a><span id="ed582490_2">02/11</span><span id="et582490_2" class="timer">22:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582490_2" title="Manchester City" class="h-w-w bold">Manchester City</span></div><div class="e-n-r row2"><span id="at582490_2" title="Norwich City" class="a-w-w">Norwich City</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"></td><td class="c-1">&nbsp;</td><td class="c-2"><span id="h341712295" class="had" hdp="-2">2</span><a href="javascript:void(0)" id="o341712295" title="Home" class="n-o">-0.82</a><span id="h341712296" class="had hide" hdp="+2">+2</span><a href="javascript:void(0)" id="o341712296" title="Away" class="">0.76</a></td><td class="c-2"><span id="h341712297" class="had" hdp="3">o3</span><a href="javascript:void(0)" id="o341712297" title="Over" class="">0.72</a><span id="h341712298" class="had" hdp="3">u3</span><a href="javascript:void(0)" id="o341712298" title="Under" class="n-o">-0.82</a></td><td class="c-btns"></td></tr><tr id="e582490_3" class="even"><td class="c-e-dt"><a id="lv582490_3" class="live" title="Upcoming In-Play"></a><span id="ed582490_3">02/11</span><span id="et582490_3" class="timer">22:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582490_3" title="Manchester City" class="h-w-w bold">Manchester City</span></div><div class="e-n-r row2"><span id="at582490_3" title="Norwich City" class="a-w-w">Norwich City</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"></td><td class="c-1">&nbsp;</td><td class="c-2"><span id="h341712320" class="had" hdp="-1.5">1.5</span><a href="javascript:void(0)" id="o341712320" title="Home" class="">0.69</a><span id="h341712321" class="had hide" hdp="+1.5">+1.5</span><a href="javascript:void(0)" id="o341712321" title="Away" class="n-o">-0.75</a></td><td class="c-2"><span id="h341712322" class="had" hdp="3.5">o3.5</span><a href="javascript:void(0)" id="o341712322" title="Over" class="n-o">-0.81</a><span id="h341712323" class="had" hdp="3.5">u3.5</span><a href="javascript:void(0)" id="o341712323" title="Under" class="">0.71</a></td><td class="c-btns"></td></tr><tr id="e582490_4"><td class="c-e-dt"><a id="lv582490_4" class="live" title="Upcoming In-Play"></a><span id="ed582490_4">02/11</span><span id="et582490_4" class="timer">22:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582490_4" title="Manchester City" class="h-w-w bold">Manchester City</span></div><div class="e-n-r row2"><span id="at582490_4" title="Norwich City" class="a-w-w">Norwich City</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"></td><td class="c-1">&nbsp;</td><td class="c-2"><span id="h341712328" class="had" hdp="-2/2.5">2/2.5</span><a href="javascript:void(0)" id="o341712328" title="Home" class="n-o">-0.66</a><span id="h341712329" class="had hide" hdp="+2/2.5">+2/2.5</span><a href="javascript:void(0)" id="o341712329" title="Away" class="">0.60</a></td><td class="c-2"><span id="h341712332" class="had" hdp="2.5/3">o2.5/3</span><a href="javascript:void(0)" id="o341712332" title="Over" class="">0.58</a><span id="h341712333" class="had" hdp="2.5/3">u2.5/3</span><a href="javascript:void(0)" id="o341712333" title="Under" class="n-o">-0.68</a></td><td class="c-btns"></td></tr>    <tr id="e582492" class="even"><td class="c-e-dt"><a id="lv582492" class="live" title="Upcoming In-Play"></a><span id="ed582492">02/11</span><span id="et582492" class="timer">22:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582492" title="West Bromwich Albion" class="h-w-w bold">West Bromwich Albion</span></div><div class="e-n-r row2"><span id="at582492" title="Crystal Palace" class="a-w-w">Crystal Palace</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"><a id="lt582492" title="188TV - Live Streaming available when In-Play"></a></td><td class="c-1"><a href="javascript:void(0)" id="o336768345" title="Home">1.55</a><a href="javascript:void(0)" id="o336768346" title="Away">6.30</a><a href="javascript:void(0)" id="o336768347" title="Draw">4.20</a></td><td class="c-2"><span id="h336768367" class="had" hdp="-1">1</span><a href="javascript:void(0)" id="o336768367" title="Home" class="">0.91</a><span id="h336768368" class="had hide" hdp="+1">+1</span><a href="javascript:void(0)" id="o336768368" title="Away" class="n-o">-0.97</a></td><td class="c-2"><span id="h336768363" class="had" hdp="2.5/3">o2.5/3</span><a href="javascript:void(0)" id="o336768363" title="Over" class="n-o">-0.99</a><span id="h336768364" class="had" hdp="2.5/3">u2.5/3</span><a href="javascript:void(0)" id="o336768364" title="Under" class="">0.89</a></td><td class="c-btns"><a href="/en-gb/sports/582492" id="mb582492" class="m-b" title="More Bets">+51</a><a href="/en-gb/info-centre/sportsbook-info/statistics/582492" target="_blank" class="sta" title="Statistics"></a></td> </tr><tr id="e582492_2"><td class="c-e-dt"><a id="lv582492_2" class="live" title="Upcoming In-Play"></a><span id="ed582492_2">02/11</span><span id="et582492_2" class="timer">22:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582492_2" title="West Bromwich Albion" class="h-w-w bold">West Bromwich Albion</span></div><div class="e-n-r row2"><span id="at582492_2" title="Crystal Palace" class="a-w-w">Crystal Palace</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"></td><td class="c-1">&nbsp;</td><td class="c-2"><span id="h341712634" class="had" hdp="-1/1.5">1/1.5</span><a href="javascript:void(0)" id="o341712634" title="Home" class="n-o">-0.80</a><span id="h341712635" class="had hide" hdp="+1/1.5">+1/1.5</span><a href="javascript:void(0)" id="o341712635" title="Away" class="">0.74</a></td><td class="c-2"><span id="h341712638" class="had" hdp="2.5">o2.5</span><a href="javascript:void(0)" id="o341712638" title="Over" class="">0.80</a><span id="h341712639" class="had" hdp="2.5">u2.5</span><a href="javascript:void(0)" id="o341712639" title="Under" class="n-o">-0.90</a></td><td class="c-btns"></td></tr><tr id="e582492_3" class="even"><td class="c-e-dt"><a id="lv582492_3" class="live" title="Upcoming In-Play"></a><span id="ed582492_3">02/11</span><span id="et582492_3" class="timer">22:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582492_3" title="West Bromwich Albion" class="h-w-w bold">West Bromwich Albion</span></div><div class="e-n-r row2"><span id="at582492_3" title="Crystal Palace" class="a-w-w">Crystal Palace</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"></td><td class="c-1">&nbsp;</td><td class="c-2"><span id="h341712652" class="had" hdp="-0.5/1">0.5/1</span><a href="javascript:void(0)" id="o341712652" title="Home" class="">0.68</a><span id="h341712653" class="had hide" hdp="+0.5/1">+0.5/1</span><a href="javascript:void(0)" id="o341712653" title="Away" class="n-o">-0.74</a></td><td class="c-2"><span id="h341712654" class="had" hdp="3">o3</span><a href="javascript:void(0)" id="o341712654" title="Over" class="n-o">-0.74</a><span id="h341712655" class="had" hdp="3">u3</span><a href="javascript:void(0)" id="o341712655" title="Under" class="">0.64</a></td><td class="c-btns"></td></tr><tr id="e582492_4"><td class="c-e-dt"><a id="lv582492_4" class="live" title="Upcoming In-Play"></a><span id="ed582492_4">02/11</span><span id="et582492_4" class="timer">22:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582492_4" title="West Bromwich Albion" class="h-w-w bold">West Bromwich Albion</span></div><div class="e-n-r row2"><span id="at582492_4" title="Crystal Palace" class="a-w-w">Crystal Palace</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"></td><td class="c-1">&nbsp;</td><td class="c-2"><span id="h341712678" class="had" hdp="-1.5">1.5</span><a href="javascript:void(0)" id="o341712678" title="Home" class="n-o">-0.62</a><span id="h341712679" class="had hide" hdp="+1.5">+1.5</span><a href="javascript:void(0)" id="o341712679" title="Away" class="">0.56</a></td><td class="c-2"><span id="h341712682" class="had" hdp="2/2.5">o2/2.5</span><a href="javascript:void(0)" id="o341712682" title="Over" class="">0.56</a><span id="h341712683" class="had" hdp="2/2.5">u2/2.5</span><a href="javascript:void(0)" id="o341712683" title="Under" class="n-o">-0.66</a></td><td class="c-btns"></td></tr>    <tr id="e582493" class="even"><td class="c-e-dt"><a id="lv582493" class="live" title="Upcoming In-Play"></a><span id="ed582493">02/11</span><span id="et582493" class="timer">22:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582493" title="West Ham United" class="h-w-w bold">West Ham United</span></div><div class="e-n-r row2"><span id="at582493" title="Aston Villa" class="a-w-w">Aston Villa</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"><a id="lt582493" title="188TV - Live Streaming available when In-Play"></a></td><td class="c-1"><a href="javascript:void(0)" id="o336768529" title="Home">2.20</a><a href="javascript:void(0)" id="o336768530" title="Away">3.45</a><a href="javascript:void(0)" id="o336768531" title="Draw">3.40</a></td><td class="c-2"><span id="h336768554" class="had" hdp="-0/0.5">0/0.5</span><a href="javascript:void(0)" id="o336768554" title="Home" class="">0.93</a><span id="h336768555" class="had hide" hdp="+0/0.5">+0/0.5</span><a href="javascript:void(0)" id="o336768555" title="Away" class="n-o">-0.99</a></td><td class="c-2"><span id="h336768548" class="had" hdp="2.5">o2.5</span><a href="javascript:void(0)" id="o336768548" title="Over" class="n-o">-0.95</a><span id="h336768549" class="had" hdp="2.5">u2.5</span><a href="javascript:void(0)" id="o336768549" title="Under" class="">0.85</a></td><td class="c-btns"><a href="/en-gb/sports/582493" id="mb582493" class="m-b" title="More Bets">+51</a><a href="/en-gb/info-centre/sportsbook-info/statistics/582493" target="_blank" class="sta" title="Statistics"></a></td> </tr><tr id="e582493_2"><td class="c-e-dt"><a id="lv582493_2" class="live" title="Upcoming In-Play"></a><span id="ed582493_2">02/11</span><span id="et582493_2" class="timer">22:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582493_2" title="West Ham United" class="h-w-w bold">West Ham United</span></div><div class="e-n-r row2"><span id="at582493_2" title="Aston Villa" class="a-w-w">Aston Villa</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"></td><td class="c-1">&nbsp;</td><td class="c-2"><span id="h341712741" class="had" hdp="-0.5">0.5</span><a href="javascript:void(0)" id="o341712741" title="Home" class="n-o">-0.80</a><span id="h341712742" class="had hide" hdp="+0.5">+0.5</span><a href="javascript:void(0)" id="o341712742" title="Away" class="">0.74</a></td><td class="c-2"><span id="h341712749" class="had" hdp="2/2.5">o2/2.5</span><a href="javascript:void(0)" id="o341712749" title="Over" class="">0.77</a><span id="h341712750" class="had" hdp="2/2.5">u2/2.5</span><a href="javascript:void(0)" id="o341712750" title="Under" class="n-o">-0.87</a></td><td class="c-btns"></td></tr><tr id="e582493_3" class="even"><td class="c-e-dt"><a id="lv582493_3" class="live" title="Upcoming In-Play"></a><span id="ed582493_3">02/11</span><span id="et582493_3" class="timer">22:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582493_3" title="West Ham United" class="h-w-w">West Ham United</span></div><div class="e-n-r row2"><span id="at582493_3" title="Aston Villa" class="a-w-w">Aston Villa</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"></td><td class="c-1">&nbsp;</td><td class="c-2"><span id="h341712779" class="had" hdp="0">0</span><a href="javascript:void(0)" id="o341712779" title="Home" class="">0.57</a><span id="h341712780" class="had hide" hdp="0">0</span><a href="javascript:void(0)" id="o341712780" title="Away" class="n-o">-0.63</a></td><td class="c-2"><span id="h341712781" class="had" hdp="2.5/3">o2.5/3</span><a href="javascript:void(0)" id="o341712781" title="Over" class="n-o">-0.77</a><span id="h341712782" class="had" hdp="2.5/3">u2.5/3</span><a href="javascript:void(0)" id="o341712782" title="Under" class="">0.67</a></td><td class="c-btns"></td></tr><tr id="e582493_4"><td class="c-e-dt"><a id="lv582493_4" class="live" title="Upcoming In-Play"></a><span id="ed582493_4">02/11</span><span id="et582493_4" class="timer">22:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582493_4" title="West Ham United" class="h-w-w bold">West Ham United</span></div><div class="e-n-r row2"><span id="at582493_4" title="Aston Villa" class="a-w-w">Aston Villa</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"></td><td class="c-1">&nbsp;</td><td class="c-2"><span id="h341712785" class="had" hdp="-0.5/1">0.5/1</span><a href="javascript:void(0)" id="o341712785" title="Home" class="n-o">-0.61</a><span id="h341712786" class="had hide" hdp="+0.5/1">+0.5/1</span><a href="javascript:void(0)" id="o341712786" title="Away" class="">0.55</a></td><td class="c-2"><span id="h341712793" class="had" hdp="3">o3</span><a href="javascript:void(0)" id="o341712793" title="Over" class="n-o">-0.56</a><span id="h341712794" class="had" hdp="3">u3</span><a href="javascript:void(0)" id="o341712794" title="Under" class="">0.46</a></td><td class="c-btns"></td></tr>    <tr id="e582489" class="even"><td class="c-e-dt"><a id="lv582489" class="live" title="Upcoming In-Play"></a><span id="ed582489">02/11</span><span id="et582489" class="timer">22:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582489" title="Hull City" class="h-w-w bold">Hull City</span></div><div class="e-n-r row2"><span id="at582489" title="Sunderland" class="a-w-w">Sunderland</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"><a id="lt582489" title="188TV - Live Streaming available when In-Play"></a></td><td class="c-1"><a href="javascript:void(0)" id="o336767747" title="Home">2.14</a><a href="javascript:void(0)" id="o336767748" title="Away">3.70</a><a href="javascript:void(0)" id="o336767749" title="Draw">3.30</a></td><td class="c-2"><span id="h336767769" class="had" hdp="-0/0.5">0/0.5</span><a href="javascript:void(0)" id="o336767769" title="Home" class="">0.85</a><span id="h336767770" class="had hide" hdp="+0/0.5">+0/0.5</span><a href="javascript:void(0)" id="o336767770" title="Away" class="n-o">-0.91</a></td><td class="c-2"><span id="h336767765" class="had" hdp="2/2.5">o2/2.5</span><a href="javascript:void(0)" id="o336767765" title="Over" class="n-o">-0.96</a><span id="h336767766" class="had" hdp="2/2.5">u2/2.5</span><a href="javascript:void(0)" id="o336767766" title="Under" class="">0.86</a></td><td class="c-btns"><a href="/en-gb/sports/582489" id="mb582489" class="m-b" title="More Bets">+51</a><a href="/en-gb/info-centre/sportsbook-info/statistics/582489" target="_blank" class="sta" title="Statistics"></a></td> </tr><tr id="e582489_2"><td class="c-e-dt"><a id="lv582489_2" class="live" title="Upcoming In-Play"></a><span id="ed582489_2">02/11</span><span id="et582489_2" class="timer">22:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582489_2" title="Hull City" class="h-w-w bold">Hull City</span></div><div class="e-n-r row2"><span id="at582489_2" title="Sunderland" class="a-w-w">Sunderland</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"></td><td class="c-1">&nbsp;</td><td class="c-2"><span id="h341712140" class="had" hdp="-0.5">0.5</span><a href="javascript:void(0)" id="o341712140" title="Home" class="n-o">-0.85</a><span id="h341712141" class="had hide" hdp="+0.5">+0.5</span><a href="javascript:void(0)" id="o341712141" title="Away" class="">0.79</a></td><td class="c-2"><span id="h341712142" class="had" hdp="2">o2</span><a href="javascript:void(0)" id="o341712142" title="Over" class="">0.72</a><span id="h341712143" class="had" hdp="2">u2</span><a href="javascript:void(0)" id="o341712143" title="Under" class="n-o">-0.82</a></td><td class="c-btns"></td></tr><tr id="e582489_3" class="even"><td class="c-e-dt"><a id="lv582489_3" class="live" title="Upcoming In-Play"></a><span id="ed582489_3">02/11</span><span id="et582489_3" class="timer">22:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582489_3" title="Hull City" class="h-w-w bold">Hull City</span></div><div class="e-n-r row2"><span id="at582489_3" title="Sunderland" class="a-w-w">Sunderland</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"></td><td class="c-1">&nbsp;</td><td class="c-2"><span id="h341712156" class="had" hdp="-0.5/1">0.5/1</span><a href="javascript:void(0)" id="o341712156" title="Home" class="n-o">-0.62</a><span id="h341712157" class="had hide" hdp="+0.5/1">+0.5/1</span><a href="javascript:void(0)" id="o341712157" title="Away" class="">0.56</a></td><td class="c-2"><span id="h341712158" class="had" hdp="2.5">o2.5</span><a href="javascript:void(0)" id="o341712158" title="Over" class="n-o">-0.80</a><span id="h341712160" class="had" hdp="2.5">u2.5</span><a href="javascript:void(0)" id="o341712160" title="Under" class="">0.70</a></td><td class="c-btns"></td></tr><tr id="e582489_4"><td class="c-e-dt"><a id="lv582489_4" class="live" title="Upcoming In-Play"></a><span id="ed582489_4">02/11</span><span id="et582489_4" class="timer">22:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582489_4" title="Hull City" class="h-w-w">Hull City</span></div><div class="e-n-r row2"><span id="at582489_4" title="Sunderland" class="a-w-w">Sunderland</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"></td><td class="c-1">&nbsp;</td><td class="c-2"><span id="h341712166" class="had" hdp="0">0</span><a href="javascript:void(0)" id="o341712166" title="Home" class="">0.54</a><span id="h341712167" class="had hide" hdp="0">0</span><a href="javascript:void(0)" id="o341712167" title="Away" class="n-o">-0.60</a></td><td class="c-2"><span id="h341712170" class="had" hdp="1.5/2">o1.5/2</span><a href="javascript:void(0)" id="o341712170" title="Over" class="">0.52</a><span id="h341712171" class="had" hdp="1.5/2">u1.5/2</span><a href="javascript:void(0)" id="o341712171" title="Under" class="n-o">-0.62</a></td><td class="c-btns"></td></tr>    <tr id="e582494" class="even"><td class="c-e-dt"><a id="lv582494" class="live" title="Upcoming In-Play"></a><span id="ed582494">03/11</span><span id="et582494" class="timer">00:30</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582494" title="Arsenal" class="h-w-w bold">Arsenal</span></div><div class="e-n-r row2"><span id="at582494" title="Liverpool" class="a-w-w">Liverpool</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"><a id="lt582494" title="188TV - Live Streaming available when In-Play"></a></td><td class="c-1"><a href="javascript:void(0)" id="o336768702" title="Home">2.19</a><a href="javascript:void(0)" id="o336768703" title="Away">3.35</a><a href="javascript:void(0)" id="o336768704" title="Draw">3.50</a></td><td class="c-2"><span id="h336768722" class="had" hdp="-0/0.5">0/0.5</span><a href="javascript:void(0)" id="o336768722" title="Home" class="">0.94</a><span id="h336768723" class="had hide" hdp="+0/0.5">+0/0.5</span><a href="javascript:void(0)" id="o336768723" title="Away" class="">1.00</a></td><td class="c-2"><span id="h336768718" class="had" hdp="2.5/3">o2.5/3</span><a href="javascript:void(0)" id="o336768718" title="Over" class="">0.90</a><span id="h336768719" class="had" hdp="2.5/3">u2.5/3</span><a href="javascript:void(0)" id="o336768719" title="Under" class="">1.00</a></td><td class="c-btns"><a href="/en-gb/sports/582494" id="mb582494" class="m-b" title="More Bets">+51</a><a href="/en-gb/info-centre/sportsbook-info/statistics/582494" target="_blank" class="sta" title="Statistics"></a></td> </tr><tr id="e582494_2"><td class="c-e-dt"><a id="lv582494_2" class="live" title="Upcoming In-Play"></a><span id="ed582494_2">03/11</span><span id="et582494_2" class="timer">00:30</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582494_2" title="Arsenal" class="h-w-w bold">Arsenal</span></div><div class="e-n-r row2"><span id="at582494_2" title="Liverpool" class="a-w-w">Liverpool</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"></td><td class="c-1">&nbsp;</td><td class="c-2"><span id="h341712848" class="had" hdp="-0.5">0.5</span><a href="javascript:void(0)" id="o341712848" title="Home" class="n-o">-0.81</a><span id="h341712849" class="had hide" hdp="+0.5">+0.5</span><a href="javascript:void(0)" id="o341712849" title="Away" class="">0.75</a></td><td class="c-2"><span id="h341712850" class="had" hdp="3">o3</span><a href="javascript:void(0)" id="o341712850" title="Over" class="n-o">-0.86</a><span id="h341712851" class="had" hdp="3">u3</span><a href="javascript:void(0)" id="o341712851" title="Under" class="">0.76</a></td><td class="c-btns"></td></tr><tr id="e582494_3" class="even"><td class="c-e-dt"><a id="lv582494_3" class="live" title="Upcoming In-Play"></a><span id="ed582494_3">03/11</span><span id="et582494_3" class="timer">00:30</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582494_3" title="Arsenal" class="h-w-w">Arsenal</span></div><div class="e-n-r row2"><span id="at582494_3" title="Liverpool" class="a-w-w">Liverpool</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"></td><td class="c-1">&nbsp;</td><td class="c-2"><span id="h341712865" class="had" hdp="0">0</span><a href="javascript:void(0)" id="o341712865" title="Home" class="">0.59</a><span id="h341712866" class="had hide" hdp="0">0</span><a href="javascript:void(0)" id="o341712866" title="Away" class="n-o">-0.65</a></td><td class="c-2"><span id="h341712867" class="had" hdp="2.5">o2.5</span><a href="javascript:void(0)" id="o341712867" title="Over" class="">0.70</a><span id="h341712868" class="had" hdp="2.5">u2.5</span><a href="javascript:void(0)" id="o341712868" title="Under" class="n-o">-0.80</a></td><td class="c-btns"></td></tr><tr id="e582494_4"><td class="c-e-dt"><a id="lv582494_4" class="live" title="Upcoming In-Play"></a><span id="ed582494_4">03/11</span><span id="et582494_4" class="timer">00:30</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582494_4" title="Arsenal" class="h-w-w bold">Arsenal</span></div><div class="e-n-r row2"><span id="at582494_4" title="Liverpool" class="a-w-w">Liverpool</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"></td><td class="c-1">&nbsp;</td><td class="c-2"><span id="h341712877" class="had" hdp="-0.5/1">0.5/1</span><a href="javascript:void(0)" id="o341712877" title="Home" class="n-o">-0.61</a><span id="h341712878" class="had hide" hdp="+0.5/1">+0.5/1</span><a href="javascript:void(0)" id="o341712878" title="Away" class="">0.55</a></td><td class="c-2"><span id="h341712879" class="had" hdp="3/3.5">o3/3.5</span><a href="javascript:void(0)" id="o341712879" title="Over" class="n-o">-0.67</a><span id="h341712880" class="had" hdp="3/3.5">u3/3.5</span><a href="javascript:void(0)" id="o341712880" title="Under" class="">0.57</a></td><td class="c-btns"></td></tr>    <tr id="e582495" class="even"><td class="c-e-dt"><a id="lv582495"></a><span id="ed582495">03/11</span><span id="et582495" class="timer">20:30</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582495" title="Everton" class="h-w-w bold">Everton</span></div><div class="e-n-r row2"><span id="at582495" title="Tottenham Hotspur" class="a-w-w">Tottenham Hotspur</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"><a id="lt582495" title="188TV - Live Streaming available when In-Play"></a></td><td class="c-1"><a href="javascript:void(0)" id="o336771218" title="Home">2.39</a><a href="javascript:void(0)" id="o336771219" title="Away">2.70</a><a href="javascript:void(0)" id="o336771220" title="Draw">3.20</a></td><td class="c-2"><span id="h336771238" class="had" hdp="-0/0.5">0/0.5</span><a href="javascript:void(0)" id="o336771238" title="Home" class="n-o">-0.88</a><span id="h336771241" class="had hide" hdp="+0/0.5">+0/0.5</span><a href="javascript:void(0)" id="o336771241" title="Away" class="">0.81</a></td><td class="c-2"><span id="h336771234" class="had" hdp="2.5">o2.5</span><a href="javascript:void(0)" id="o336771234" title="Over" class="n-o">-0.97</a><span id="h336771235" class="had" hdp="2.5">u2.5</span><a href="javascript:void(0)" id="o336771235" title="Under" class="">0.87</a></td><td class="c-btns"><a href="/en-gb/sports/582495" id="mb582495" class="m-b" title="More Bets">+51</a><a href="/en-gb/info-centre/sportsbook-info/statistics/582495" target="_blank" class="sta" title="Statistics"></a></td> </tr><tr id="e582495_2"><td class="c-e-dt"><a id="lv582495_2"></a><span id="ed582495_2">03/11</span><span id="et582495_2" class="timer">20:30</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582495_2" title="Everton" class="h-w-w">Everton</span></div><div class="e-n-r row2"><span id="at582495_2" title="Tottenham Hotspur" class="a-w-w">Tottenham Hotspur</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"></td><td class="c-1">&nbsp;</td><td class="c-2"><span id="h341713037" class="had" hdp="0">0</span><a href="javascript:void(0)" id="o341713037" title="Home" class="">0.78</a><span id="h341713038" class="had hide" hdp="0">0</span><a href="javascript:void(0)" id="o341713038" title="Away" class="n-o">-0.85</a></td><td class="c-2"><span id="h341713047" class="had" hdp="2/2.5">o2/2.5</span><a href="javascript:void(0)" id="o341713047" title="Over" class="">0.76</a><span id="h341713048" class="had" hdp="2/2.5">u2/2.5</span><a href="javascript:void(0)" id="o341713048" title="Under" class="n-o">-0.86</a></td><td class="c-btns"></td></tr><tr id="e582495_3" class="even"><td class="c-e-dt"><a id="lv582495_3"></a><span id="ed582495_3">03/11</span><span id="et582495_3" class="timer">20:30</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582495_3" title="Everton" class="h-w-w bold">Everton</span></div><div class="e-n-r row2"><span id="at582495_3" title="Tottenham Hotspur" class="a-w-w">Tottenham Hotspur</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"></td><td class="c-1">&nbsp;</td><td class="c-2"><span id="h341713063" class="had" hdp="-0.5">0.5</span><a href="javascript:void(0)" id="o341713063" title="Home" class="n-o">-0.67</a><span id="h341713064" class="had hide" hdp="+0.5">+0.5</span><a href="javascript:void(0)" id="o341713064" title="Away" class="">0.60</a></td><td class="c-2"><span id="h341713069" class="had" hdp="2.5/3">o2.5/3</span><a href="javascript:void(0)" id="o341713069" title="Over" class="n-o">-0.75</a><span id="h341713070" class="had" hdp="2.5/3">u2.5/3</span><a href="javascript:void(0)" id="o341713070" title="Under" class="">0.65</a></td><td class="c-btns"></td></tr><tr id="e582495_4"><td class="c-e-dt"><a id="lv582495_4"></a><span id="ed582495_4">03/11</span><span id="et582495_4" class="timer">20:30</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582495_4" title="Everton" class="h-w-w">Everton</span></div><div class="e-n-r row2"><span id="at582495_4" title="Tottenham Hotspur" class="a-w-w bold">Tottenham Hotspur</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"></td><td class="c-1">&nbsp;</td><td class="c-2"><span id="h341713085" class="had hide" hdp="+0/0.5">+0/0.5</span><a href="javascript:void(0)" id="o341713085" title="Home" class="">0.54</a><span id="h341713086" class="had" hdp="-0/0.5">0/0.5</span><a href="javascript:void(0)" id="o341713086" title="Away" class="n-o">-0.61</a></td><td class="c-2"><span id="h341713087" class="had" hdp="2">o2</span><a href="javascript:void(0)" id="o341713087" title="Over" class="">0.48</a><span id="h341713088" class="had" hdp="2">u2</span><a href="javascript:void(0)" id="o341713088" title="Under" class="n-o">-0.58</a></td><td class="c-btns"></td></tr>    <tr id="e582496" class="even"><td class="c-e-dt"><a id="lv582496"></a><span id="ed582496">03/11</span><span id="et582496" class="timer">23:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582496" title="Cardiff City" class="h-w-w">Cardiff City</span></div><div class="e-n-r row2"><span id="at582496" title="Swansea City" class="a-w-w bold">Swansea City</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"><a id="lt582496" title="188TV - Live Streaming available when In-Play"></a></td><td class="c-1"><a href="javascript:void(0)" id="o336771434" title="Home">3.00</a><a href="javascript:void(0)" id="o336771435" title="Away">2.18</a><a href="javascript:void(0)" id="o336771436" title="Draw">3.25</a></td><td class="c-2"><span id="h336771465" class="had hide" hdp="+0/0.5">+0/0.5</span><a href="javascript:void(0)" id="o336771465" title="Home" class="">0.97</a><span id="h336771466" class="had" hdp="-0/0.5">0/0.5</span><a href="javascript:void(0)" id="o336771466" title="Away" class="">0.96</a></td><td class="c-2"><span id="h336771461" class="had" hdp="2.5">o2.5</span><a href="javascript:void(0)" id="o336771461" title="Over" class="n-o">-0.91</a><span id="h336771462" class="had" hdp="2.5">u2.5</span><a href="javascript:void(0)" id="o336771462" title="Under" class="">0.81</a></td><td class="c-btns"><a href="/en-gb/sports/582496" id="mb582496" class="m-b" title="More Bets">+51</a><a href="/en-gb/info-centre/sportsbook-info/statistics/582496" target="_blank" class="sta" title="Statistics"></a></td> </tr><tr id="e582496_2"><td class="c-e-dt"><a id="lv582496_2"></a><span id="ed582496_2">03/11</span><span id="et582496_2" class="timer">23:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582496_2" title="Cardiff City" class="h-w-w">Cardiff City</span></div><div class="e-n-r row2"><span id="at582496_2" title="Swansea City" class="a-w-w bold">Swansea City</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"></td><td class="c-1">&nbsp;</td><td class="c-2"><span id="h341713145" class="had hide" hdp="+0.5">+0.5</span><a href="javascript:void(0)" id="o341713145" title="Home" class="">0.72</a><span id="h341713146" class="had" hdp="-0.5">0.5</span><a href="javascript:void(0)" id="o341713146" title="Away" class="n-o">-0.79</a></td><td class="c-2"><span id="h341713147" class="had" hdp="2/2.5">o2/2.5</span><a href="javascript:void(0)" id="o341713147" title="Over" class="">0.86</a><span id="h341713150" class="had" hdp="2/2.5">u2/2.5</span><a href="javascript:void(0)" id="o341713150" title="Under" class="n-o">-0.96</a></td><td class="c-btns"></td></tr><tr id="e582496_3" class="even"><td class="c-e-dt"><a id="lv582496_3"></a><span id="ed582496_3">03/11</span><span id="et582496_3" class="timer">23:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582496_3" title="Cardiff City" class="h-w-w">Cardiff City</span></div><div class="e-n-r row2"><span id="at582496_3" title="Swansea City" class="a-w-w">Swansea City</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"></td><td class="c-1">&nbsp;</td><td class="c-2"><span id="h341713172" class="had" hdp="0">0</span><a href="javascript:void(0)" id="o341713172" title="Home" class="n-o">-0.67</a><span id="h341713173" class="had hide" hdp="0">0</span><a href="javascript:void(0)" id="o341713173" title="Away" class="">0.60</a></td><td class="c-2"><span id="h341713178" class="had" hdp="2.5/3">o2.5/3</span><a href="javascript:void(0)" id="o341713178" title="Over" class="n-o">-0.70</a><span id="h341713179" class="had" hdp="2.5/3">u2.5/3</span><a href="javascript:void(0)" id="o341713179" title="Under" class="">0.60</a></td><td class="c-btns"></td></tr><tr id="e582496_4"><td class="c-e-dt"><a id="lv582496_4"></a><span id="ed582496_4">03/11</span><span id="et582496_4" class="timer">23:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht582496_4" title="Cardiff City" class="h-w-w">Cardiff City</span></div><div class="e-n-r row2"><span id="at582496_4" title="Swansea City" class="a-w-w bold">Swansea City</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"></td><td class="c-1">&nbsp;</td><td class="c-2"><span id="h341713187" class="had hide" hdp="+0.5/1">+0.5/1</span><a href="javascript:void(0)" id="o341713187" title="Home" class="">0.53</a><span id="h341713188" class="had" hdp="-0.5/1">0.5/1</span><a href="javascript:void(0)" id="o341713188" title="Away" class="n-o">-0.60</a></td><td class="c-2"><span id="h341713189" class="had" hdp="2">o2</span><a href="javascript:void(0)" id="o341713189" title="Over" class="">0.54</a><span id="h341713190" class="had" hdp="2">u2</span><a href="javascript:void(0)" id="o341713190" title="Under" class="n-o">-0.64</a></td><td class="c-btns"></td></tr>    <tr id="e586094" class="even"><td class="c-e-dt"><a id="lv586094"></a><span id="ed586094">09/11</span><span id="et586094" class="timer">22:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht586094" title="Aston Villa" class="h-w-w bold">Aston Villa</span></div><div class="e-n-r row2"><span id="at586094" title="Cardiff City" class="a-w-w">Cardiff City</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"><a id="lt586094" title="188TV - Live Streaming available when In-Play"></a></td><td class="c-1"><a href="javascript:void(0)" id="o339400086" title="Home">1.95</a><a href="javascript:void(0)" id="o339400087" title="Away">3.40</a><a href="javascript:void(0)" id="o339400088" title="Draw">3.40</a></td><td class="c-2"><span id="h339400111" class="had" hdp="-0.5">0.5</span><a href="javascript:void(0)" id="o339400111" title="Home" class="">0.91</a><span id="h339400112" class="had hide" hdp="+0.5">+0.5</span><a href="javascript:void(0)" id="o339400112" title="Away" class="">0.99</a></td><td class="c-2"><span id="h339400105" class="had" hdp="2.5">o2.5</span><a href="javascript:void(0)" id="o339400105" title="Over" class="">0.95</a><span id="h339400106" class="had" hdp="2.5">u2.5</span><a href="javascript:void(0)" id="o339400106" title="Under" class="">0.95</a></td><td class="c-btns"><a href="/en-gb/sports/586094" id="mb586094" class="m-b" title="More Bets">+14</a><a href="/en-gb/info-centre/sportsbook-info/statistics/586094" target="_blank" class="sta" title="Statistics"></a></td> </tr>    <tr id="e586095"><td class="c-e-dt"><a id="lv586095"></a><span id="ed586095">09/11</span><span id="et586095" class="timer">22:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht586095" title="Chelsea" class="h-w-w bold">Chelsea</span></div><div class="e-n-r row2"><span id="at586095" title="West Bromwich Albion" class="a-w-w">West Bromwich Albion</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"><a id="lt586095" title="188TV - Live Streaming available when In-Play"></a></td><td class="c-1"><a href="javascript:void(0)" id="o339400243" title="Home">1.25</a><a href="javascript:void(0)" id="o339400244" title="Away">10.00</a><a href="javascript:void(0)" id="o339400245" title="Draw">5.00</a></td><td class="c-2"><span id="h339400267" class="had" hdp="-1.5/2">1.5/2</span><a href="javascript:void(0)" id="o339400267" title="Home" class="n-o">-0.94</a><span id="h339400268" class="had hide" hdp="+1.5/2">+1.5/2</span><a href="javascript:void(0)" id="o339400268" title="Away" class="">0.84</a></td><td class="c-2"><span id="h339400261" class="had" hdp="2.5/3">o2.5/3</span><a href="javascript:void(0)" id="o339400261" title="Over" class="">0.80</a><span id="h339400262" class="had" hdp="2.5/3">u2.5/3</span><a href="javascript:void(0)" id="o339400262" title="Under" class="n-o">-0.90</a></td><td class="c-btns"><a href="/en-gb/sports/586095" id="mb586095" class="m-b" title="More Bets">+14</a><a href="/en-gb/info-centre/sportsbook-info/statistics/586095" target="_blank" class="sta" title="Statistics"></a></td> </tr>    <tr id="e586097" class="even"><td class="c-e-dt"><a id="lv586097"></a><span id="ed586097">09/11</span><span id="et586097" class="timer">22:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht586097" title="Crystal Palace" class="h-w-w">Crystal Palace</span></div><div class="e-n-r row2"><span id="at586097" title="Everton" class="a-w-w bold">Everton</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"><a id="lt586097" title="188TV - Live Streaming available when In-Play"></a></td><td class="c-1"><a href="javascript:void(0)" id="o339400515" title="Home">5.90</a><a href="javascript:void(0)" id="o339400516" title="Away">1.50</a><a href="javascript:void(0)" id="o339400517" title="Draw">3.80</a></td><td class="c-2"><span id="h339400541" class="had hide" hdp="+1">+1</span><a href="javascript:void(0)" id="o339400541" title="Home" class="">0.86</a><span id="h339400542" class="had" hdp="-1">1</span><a href="javascript:void(0)" id="o339400542" title="Away" class="n-o">-0.96</a></td><td class="c-2"><span id="h339400537" class="had" hdp="2.5">o2.5</span><a href="javascript:void(0)" id="o339400537" title="Over" class="">0.85</a><span id="h339400538" class="had" hdp="2.5">u2.5</span><a href="javascript:void(0)" id="o339400538" title="Under" class="n-o">-0.95</a></td><td class="c-btns"><a href="/en-gb/sports/586097" id="mb586097" class="m-b" title="More Bets">+14</a><a href="/en-gb/info-centre/sportsbook-info/statistics/586097" target="_blank" class="sta" title="Statistics"></a></td> </tr>    <tr id="e586098"><td class="c-e-dt"><a id="lv586098"></a><span id="ed586098">09/11</span><span id="et586098" class="timer">22:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht586098" title="Liverpool" class="h-w-w bold">Liverpool</span></div><div class="e-n-r row2"><span id="at586098" title="Fulham" class="a-w-w">Fulham</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"><a id="lt586098" title="188TV - Live Streaming available when In-Play"></a></td><td class="c-1"><a href="javascript:void(0)" id="o339400676" title="Home">1.22</a><a href="javascript:void(0)" id="o339400677" title="Away">10.20</a><a href="javascript:void(0)" id="o339400678" title="Draw">5.50</a></td><td class="c-2"><span id="h339400698" class="had" hdp="-1.5/2">1.5/2</span><a href="javascript:void(0)" id="o339400698" title="Home" class="n-o">-0.98</a><span id="h339400699" class="had hide" hdp="+1.5/2">+1.5/2</span><a href="javascript:void(0)" id="o339400699" title="Away" class="">0.88</a></td><td class="c-2"><span id="h339400694" class="had" hdp="3">o3</span><a href="javascript:void(0)" id="o339400694" title="Over" class="">0.95</a><span id="h339400695" class="had" hdp="3">u3</span><a href="javascript:void(0)" id="o339400695" title="Under" class="">0.95</a></td><td class="c-btns"><a href="/en-gb/sports/586098" id="mb586098" class="m-b" title="More Bets">+14</a><a href="/en-gb/info-centre/sportsbook-info/statistics/586098" target="_blank" class="sta" title="Statistics"></a></td> </tr>    <tr id="e586100" class="even"><td class="c-e-dt"><a id="lv586100"></a><span id="ed586100">09/11</span><span id="et586100" class="timer">22:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht586100" title="Southampton" class="h-w-w bold">Southampton</span></div><div class="e-n-r row2"><span id="at586100" title="Hull City" class="a-w-w">Hull City</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"><a id="lt586100" title="188TV - Live Streaming available when In-Play"></a></td><td class="c-1"><a href="javascript:void(0)" id="o339400929" title="Home">1.50</a><a href="javascript:void(0)" id="o339400930" title="Away">5.90</a><a href="javascript:void(0)" id="o339400931" title="Draw">3.80</a></td><td class="c-2"><span id="h339400961" class="had" hdp="-1">1</span><a href="javascript:void(0)" id="o339400961" title="Home" class="">0.99</a><span id="h339400962" class="had hide" hdp="+1">+1</span><a href="javascript:void(0)" id="o339400962" title="Away" class="">0.91</a></td><td class="c-2"><span id="h339400949" class="had" hdp="2.5">o2.5</span><a href="javascript:void(0)" id="o339400949" title="Over" class="n-o">-0.92</a><span id="h339400950" class="had" hdp="2.5">u2.5</span><a href="javascript:void(0)" id="o339400950" title="Under" class="">0.82</a></td><td class="c-btns"><a href="/en-gb/sports/586100" id="mb586100" class="m-b" title="More Bets">+14</a><a href="/en-gb/info-centre/sportsbook-info/statistics/586100" target="_blank" class="sta" title="Statistics"></a></td> </tr>    <tr id="e586101"><td class="c-e-dt"><a id="lv586101"></a><span id="ed586101">10/11</span><span id="et586101" class="timer">00:30</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht586101" title="Norwich City" class="h-w-w bold">Norwich City</span></div><div class="e-n-r row2"><span id="at586101" title="West Ham United" class="a-w-w">West Ham United</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"><a id="lt586101" title="188TV - Live Streaming available when In-Play"></a></td><td class="c-1"><a href="javascript:void(0)" id="o339401146" title="Home">2.30</a><a href="javascript:void(0)" id="o339401147" title="Away">2.80</a><a href="javascript:void(0)" id="o339401148" title="Draw">3.25</a></td><td class="c-2"><span id="h339401178" class="had" hdp="-0/0.5">0/0.5</span><a href="javascript:void(0)" id="o339401178" title="Home" class="">0.99</a><span id="h339401179" class="had hide" hdp="+0/0.5">+0/0.5</span><a href="javascript:void(0)" id="o339401179" title="Away" class="">0.91</a></td><td class="c-2"><span id="h339401168" class="had" hdp="2/2.5">o2/2.5</span><a href="javascript:void(0)" id="o339401168" title="Over" class="">0.83</a><span id="h339401169" class="had" hdp="2/2.5">u2/2.5</span><a href="javascript:void(0)" id="o339401169" title="Under" class="n-o">-0.93</a></td><td class="c-btns"><a href="/en-gb/sports/586101" id="mb586101" class="m-b" title="More Bets">+14</a><a href="/en-gb/info-centre/sportsbook-info/statistics/586101" target="_blank" class="sta" title="Statistics"></a></td> </tr>    <tr id="e586102" class="even"><td class="c-e-dt"><a id="lv586102"></a><span id="ed586102">10/11</span><span id="et586102" class="timer">19:00</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht586102" title="Tottenham Hotspur" class="h-w-w bold">Tottenham Hotspur</span></div><div class="e-n-r row2"><span id="at586102" title="Newcastle United" class="a-w-w">Newcastle United</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"><a id="lt586102" title="188TV - Live Streaming available when In-Play"></a></td><td class="c-1"><a href="javascript:void(0)" id="o339401384" title="Home">1.45</a><a href="javascript:void(0)" id="o339401385" title="Away">6.25</a><a href="javascript:void(0)" id="o339401386" title="Draw">4.00</a></td><td class="c-2"><span id="h339401407" class="had" hdp="-1/1.5">1/1.5</span><a href="javascript:void(0)" id="o339401407" title="Home" class="n-o">-0.99</a><span id="h339401408" class="had hide" hdp="+1/1.5">+1/1.5</span><a href="javascript:void(0)" id="o339401408" title="Away" class="">0.89</a></td><td class="c-2"><span id="h339401403" class="had" hdp="2.5/3">o2.5/3</span><a href="javascript:void(0)" id="o339401403" title="Over" class="">0.93</a><span id="h339401404" class="had" hdp="2.5/3">u2.5/3</span><a href="javascript:void(0)" id="o339401404" title="Under" class="">0.97</a></td><td class="c-btns"><a href="/en-gb/sports/586102" id="mb586102" class="m-b" title="More Bets">+14</a><a href="/en-gb/info-centre/sportsbook-info/statistics/586102" target="_blank" class="sta" title="Statistics"></a></td> </tr>    <tr id="e586103"><td class="c-e-dt"><a id="lv586103"></a><span id="ed586103">10/11</span><span id="et586103" class="timer">21:05</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht586103" title="Sunderland" class="h-w-w">Sunderland</span></div><div class="e-n-r row2"><span id="at586103" title="Manchester City" class="a-w-w bold">Manchester City</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"><a id="lt586103" title="188TV - Live Streaming available when In-Play"></a></td><td class="c-1"><a href="javascript:void(0)" id="o339401553" title="Home">5.90</a><a href="javascript:void(0)" id="o339401554" title="Away">1.50</a><a href="javascript:void(0)" id="o339401555" title="Draw">3.80</a></td><td class="c-2"><span id="h339401577" class="had hide" hdp="+1">+1</span><a href="javascript:void(0)" id="o339401577" title="Home" class="n-o">-0.98</a><span id="h339401578" class="had" hdp="-1">1</span><a href="javascript:void(0)" id="o339401578" title="Away" class="">0.88</a></td><td class="c-2"><span id="h339401571" class="had" hdp="2.5/3">o2.5/3</span><a href="javascript:void(0)" id="o339401571" title="Over" class="">0.88</a><span id="h339401572" class="had" hdp="2.5/3">u2.5/3</span><a href="javascript:void(0)" id="o339401572" title="Under" class="n-o">-0.98</a></td><td class="c-btns"><a href="/en-gb/sports/586103" id="mb586103" class="m-b" title="More Bets">+14</a><a href="/en-gb/info-centre/sportsbook-info/statistics/586103" target="_blank" class="sta" title="Statistics"></a></td> </tr>    <tr id="e586104" class="even"><td class="c-e-dt"><a id="lv586104"></a><span id="ed586104">10/11</span><span id="et586104" class="timer">23:10</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht586104" title="Manchester United" class="h-w-w bold">Manchester United</span></div><div class="e-n-r row2"><span id="at586104" title="Arsenal" class="a-w-w">Arsenal</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"><a id="lt586104" title="188TV - Live Streaming available when In-Play"></a></td><td class="c-1"><a href="javascript:void(0)" id="o339401787" title="Home">2.25</a><a href="javascript:void(0)" id="o339401788" title="Away">2.85</a><a href="javascript:void(0)" id="o339401789" title="Draw">3.30</a></td><td class="c-2"><span id="h339401827" class="had" hdp="-0/0.5">0/0.5</span><a href="javascript:void(0)" id="o339401827" title="Home" class="">0.92</a><span id="h339401828" class="had hide" hdp="+0/0.5">+0/0.5</span><a href="javascript:void(0)" id="o339401828" title="Away" class="">0.98</a></td><td class="c-2"><span id="h339401818" class="had" hdp="2.5">o2.5</span><a href="javascript:void(0)" id="o339401818" title="Over" class="">0.85</a><span id="h339401819" class="had" hdp="2.5">u2.5</span><a href="javascript:void(0)" id="o339401819" title="Under" class="n-o">-0.95</a></td><td class="c-btns"><a href="/en-gb/sports/586104" id="mb586104" class="m-b" title="More Bets">+14</a><a href="/en-gb/info-centre/sportsbook-info/statistics/586104" target="_blank" class="sta" title="Statistics"></a></td> </tr>    <tr id="e586105"><td class="c-e-dt"><a id="lv586105"></a><span id="ed586105">10/11</span><span id="et586105" class="timer">23:10</span></td><td class="c-n"><div class="e-nm"><div class="e-n-r row1"><span id="ht586105" title="Swansea City" class="h-w-w bold">Swansea City</span></div><div class="e-n-r row2"><span id="at586105" title="Stoke City" class="a-w-w">Stoke City</span></div><div class="e-n-r row3"><span class="d">Draw</span></div></div></td><td class="c-ico"><a id="lt586105" title="188TV - Live Streaming available when In-Play"></a></td><td class="c-1"><a href="javascript:void(0)" id="o339402026" title="Home">1.70</a><a href="javascript:void(0)" id="o339402027" title="Away">4.40</a><a href="javascript:void(0)" id="o339402028" title="Draw">3.50</a></td><td class="c-2"><span id="h339402048" class="had" hdp="-0.5/1">0.5/1</span><a href="javascript:void(0)" id="o339402048" title="Home" class="">0.91</a><span id="h339402049" class="had hide" hdp="+0.5/1">+0.5/1</span><a href="javascript:void(0)" id="o339402049" title="Away" class="">0.99</a></td><td class="c-2"><span id="h339402044" class="had" hdp="2/2.5">o2/2.5</span><a href="javascript:void(0)" id="o339402044" title="Over" class="">0.87</a><span id="h339402045" class="had" hdp="2/2.5">u2/2.5</span><a href="javascript:void(0)" id="o339402045" title="Under" class="n-o">-0.97</a></td><td class="c-btns"><a href="/en-gb/sports/586105" id="mb586105" class="m-b" title="More Bets">+14</a><a href="/en-gb/info-centre/sportsbook-info/statistics/586105" target="_blank" class="sta" title="Statistics"></a></td> </tr>    </tbody> </table> </div></div></div>
+        <div id="b-pager" style="display: none; ">
+            <a class="btp" href="#">Back to Top</a>
+            <span class="ld">|</span>
+            <a class="b-np" href="javascript:void(0)">Next</a>
+            <span class="ld">|</span>
+            <a id="text_b-ddlPaging" href="javascript:void(0)" class="ddl-text b-dropdown">1/1</a><input name="b-ddlPaging" id="b-ddlPaging" value="" type="hidden" style="display: none; " selectedindex="0">
+            <span class="pager" id="b-lbPager">Page:</span>
+            <span class="ld">|</span>
+            <a class="b-pp dp" href="javascript:void(0)">Back</a>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>
+		<div id="RightSide">
+            
+<div id="betslipContainer" class="c-in">
+    <div id="right-panel" class="tabs ui-tabs ui-widget ui-widget-content ui-corner-all">
+        <ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
+            <li class="bs_tabs ui-state-default ui-corner-top ui-tabs-selected ui-state-active"><a href="#tab-BetSlip">
+                Bet Slip</a></li>
+            <li class="mybet_content ui-state-default ui-corner-top"><a href="#tab-MyBet" class="MyBetsTab">
+                My Bets</a></li>
+    
+            <li class="btn"><a class="btnRefresh"> 
+              </a></li>
+    
+
+        </ul>
+        <div id="tab-BetSlip" class="ui-tabs-panel ui-widget-content ui-corner-bottom"><div class="before-login">
+    <div class="new">Not Yet A Member?</div>
+    <div class="open">New Player offer - FREE £50 Bet</div>
+    <a class="btn-join popup-div ijoin w720 h623" href="/en-gb/user/register">Join</a>
+</div></div>
+        <div id="tab-MyBet" class="mybet_content ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide"></div>
+    </div>  
+</div>
+           
+               
+<div class="nano-panel ">
+    <div id="systemContent"></div>
+    <h3 class="title2 title-txt">
+        <span class="game-name">Casino Games</span>
+        <div id="Nanotooltip" title="This bet will be made from your Sportsbook Balance."></div>
+        <a class="btn-refresh" title="Refresh"></a><br class="clear-b">
+    </h3>
+
+    <div id="NanoBeforeLogin" class="NanoBeforeLogin" href="javascript:void(0)" onclick="LoginRequired()"></div>
+
+
+     <script language="javascript" type="text/javascript">
+     var CasinoID = "";
+     var xProxURL = "";
+     var xManURL = "";
+     var gameSelection = "";
+     var token;
+
+     var postobject = new Object();
+     postobject.gameid = gameSelection;
+        
+    </script>
+    <script src="http://cdn.188bet.com/Public/JS/Nano/tipsyNa.js?v=10.01" type="text/javascript"></script>   
+    <script src="http://cdn.188bet.com/Public/JS/Nano/swfobject.js?v=10.01" type="text/javascript"></script>   
+    <script src="http://cdn.188bet.com/Public/JS/Nano/nanoMain.js?v=10.01" type="text/javascript"></script>
+    <script src="http://cdn.188bet.com/Public/JS/Nano/objectSubmit.js?v=10.01" type="text/javascript"></script>
+    <link href="http://cdn.188bet.com/Public/CSS/tipsyNa.css?v=10.01" rel="stylesheet" type="text/css">
+</div>
+            <div id="BettingInfoAndBanner">
+                <div class="children-r">
+                    
+
+<div id="BettingInfo" class="hidden" style="">
+        <h3>
+             <span class="c-t-r expand-r">
+                <a class="c-btn-r"></a>
+            </span>
+        </h3>
+</div>
+
+                    
+<div id="rightBannerChildrenDetail">
+    <div id="ctl00_ctl00_Content_Content_RightBannerControl_rightBanner" class="banners"><div class="products">
+
+				
+				<!-- 01 -->
+				<iframe allowtransparency="true" src="http://ff.connextra.com/188bet/selector/client?client=188bet&amp;placement=01_Sports_RightBanner_en_gb_241x78" width="241" height="78" scrolling="no" frameborder="0" style="border-width:0; margin-bottom: 2px;"></iframe><br>
+				
+				<!-- 02 -->
+				<iframe allowtransparency="true" src="http://ff.connextra.com/188bet/selector/client?client=188bet&amp;placement=02_Sports_RightBanner_en_gb_241x78" width="241" height="78" scrolling="no" frameborder="0" style="border-width:0; margin-bottom: 2px;"></iframe><br>
+				
+				<!-- 03 -->
+				<iframe allowtransparency="true" src="http://ff.connextra.com/188bet/selector/client?client=188bet&amp;placement=03_Sports_RightBanner_en_gb_241x78" width="241" height="78" scrolling="no" frameborder="0" style="border-width:0; margin-bottom: 2px;"></iframe><br>
+				
+				<!-- 04 -->
+				<iframe allowtransparency="true" src="http://ff.connextra.com/188bet/selector/client?client=188bet&amp;placement=04_Sports_RightBanner_en_gb_241x78" width="241" height="78" scrolling="no" frameborder="0" style="border-width:0; margin-bottom: 2px;"></iframe><br>
+
+				<a target="_self" class="" href="http://preview.188bet.com/en-gb/">
+				<img src="http://cdn.188bet.com/Public/Images/Scheduled/RightBanner/en-gb/B0001/241x238_Teaser_en-gb.png" alt="Shoot!" width="241" height="238" style="border-width:0; margin-bottom: 2px;"></a>
+				
+			</div></div>
+</div>
+<script type="text/javascript">
+    var Banner_ID = "ctl00_ctl00_Content_Content_RightBannerControl_rightBanner"; 
+</script>
+                </div>
+            </div>
+		</div>
+		<div class="clear"></div>
+	</div>
+    <input name="ctl00$ctl00$Content$Content$Key" type="hidden" id="ctl00_ctl00_Content_Content_Key" class="KeyValue" value="sport">
+
+<div id="footer">
+<div id="sponsors_bar">
+  <ul id="sponsors_list">
+   
+    <li class="clubs">
+    <h3>Proud to work with:</h3>
+      <ul class="clubs_logo">
+        <li><a target="_blank" href="http://www.liverpoolfc.tv" class="icons liverpool"></a></li>
+        <li><a class="icons mancity" href="http://www.mcfc.com/" target="_blank"></a></li>
+      </ul>
+    </li>
+    
+    <li class="security">
+      <h3>Security and Trust:</h3>
+      <ul class="security_logo">
+        <li><a target="_blank" class="icons iom no-cred" id="A1" href="http://www.gov.im/gambling/"></a></li> 
+        <li><a target="_blank" class="icons firstcagayan deposit-no-cred" id="A5" href="http://www.firstcagayan.com"></a></li>
+        <li><a target="_blank" class="icons tst" id="A2" href="http://www.tstglobal.com/"></a></li>
+        <li><a target="_blank" class="icons tawte" id="A3" href="http://www.thawte.com/"></a></li>
+
+      </ul>
+    </li>
+    
+    
+    <li class="resgaming">
+      <h3>Responsible Gaming:</h3>
+      <ul class="resgaming_logo">
+        <li><a target="_blank" class="popup-new iaffair w917 h600 ryes icons resgame" href="/en-gb/corporate-affairs/responsible-gaming"></a></li>
+        <li><a target="_blank" class="icons gamcare no-cred" href="http://www.gamcare.org.uk/"></a></li>
+        <li><a target="_blank" class="icons gambleaware no-cred" href="http://www.gambleaware.co.uk/"></a></li>
+      </ul>
+    </li>
+    
+      </ul>
+  <div id="copyright_text" class="clear">
+    <ul id="static_links">
+        <li><a target="_blank" class="popup-new iaffair w917 h600 ryes" href="/en-gb/corporate-affairs/about-us">About Us</a></li>
+         
+          <li class="188Affiliate"><a target="_blank" class="iaffair w917 h600 ryes " href="http://aff.188bet.com/">Affiliates</a></li>
+            
+      <li class="no-cred"><a class="popup-new iaffair w917 h600 ryes" target="_blank" href="/en-gb/corporate-affairs/responsible-gaming">Responsible Gaming</a></li>                  
+      
+      <li><a class="popup-new iaffair w917 h600 ryes" href="/en-gb/corporate-affairs/terms-and-conditions">Terms &amp; Conditions</a></li>
+      <li><a class="popup-new iaffair w917 h600 ryes" href="/en-gb/corporate-affairs/privacy-policy">Privacy Policy</a></li>
+      <li class="no-cred"><a class="popup-new icenter w917 h600 ryes" target="_blank" href="/en-gb/info-centre/contact-us/report-a-bug">Report a bug</a></li>
+      <li class="last"><a href="/en-gb/sitemap">Sitemap</a></li>
+    </ul>
+    <div class="no-cred">
+        <a href="/en-gb/home">188BET</a>&nbsp;is a Registered Trade Mark, brand and registered business name, owned by Cube Limited. Clinch's House, Lord Street, Douglas, Isle of Man IM1 1JD<br>
+        <a target="_blank" class="popup-new iaffair w917 h600 ryes" href="/en-gb/corporate-affairs/about-us">Regulated &amp; Licensed since 31/08/2007 (Last Renewal: 31/08/2012) by Isle of Man, British Isles</a><br>
+        Copyright ©&nbsp;2013&nbsp;
+        <a href="/en-gb/home">188BET</a>
+    </div>
+    <div class="s-c">BJFBCI  ADDBCI  </div>
+  </div>
+</div>
+
+</div>
+              <div class="pl-shadow"></div>
+            </div>
+        </div>
+        <script type="text/javascript">HomeJS.initLogin(); $("#txtName").val("");</script>
+    </form>
+
+
+<div id="drop_contactlist" class="dropmenu" style="position: absolute; z-index: 1000; display: none; visibility: visible; " _h="50" _w="87">
+          <ul>
+             <li><a target="_blank" class="popup-new icenter w917 h600 ryes" href="/en-gb/info-centre/contact-us">Contact Us</a></li>
+             <li><a id="liveChat" class="popup-new ichat" target="_blank" href="https://server.iad.liveperson.net/hc/19397439/?cmd=file&amp;file=visitorWantsToChat&amp;site=19397439&amp;SESSIONVAR!skill=Default%20Ticket%20Skill&amp;referrer=www.188BET.com?lang=EN">Live Chat</a></li>
+          </ul>
+        </div><div class="info-link" id="drop_ddl-info" style="position: absolute; z-index: 1000; display: none; visibility: visible; " _h="82" _w="132">
+                <ul>
+                    <li><a target="_blank" class="popup-new icenter w917 h600 ryes" href="/en-gb/info-centre/sportsbook-info/results">Results</a></li>
+                    <li><a target="_blank" class="popup-new istatis w1005 h720 ryes" href="/en-gb/info-centre/sportsbook-info/statistics/">Statistics</a></li>
+                    <li><a target="_blank" class="popup-new icenter w917 h600 ryes" href="/en-gb/info-centre/sportsbook-info/odds-calculator">Odds Calculator</a></li>
+                    <li><a target="_blank" class="popup-new icenter w917 h600 ryes" href="/en-gb/info-centre/sportsbook-info/sports-betting-rules/">Sports Betting Rules</a></li>
+                </ul>
+            </div><div id="language" style="position: absolute; z-index: 1000; display: none; visibility: visible; " _h="177" _w="92">
+    <ul>
+    <li><a class="zh-cn" href="/zh-cn/sports/football/competition/full-time-asian-handicap-and-over-under?competitionids=26726">简体</a></li><li><a class="zh-tw" href="/zh-tw/sports/football/competition/full-time-asian-handicap-and-over-under?competitionids=26726">繁體</a></li><li><a class="vi-vn" href="/vi-vn/sports/football/competition/full-time-asian-handicap-and-over-under?competitionids=26726">Tiếng Việt</a></li><li><a class="th-th" href="/th-th/sports/football/competition/full-time-asian-handicap-and-over-under?competitionids=26726">ไทย</a></li><li><a class="ko-kr" href="/ko-kr/sports/football/competition/full-time-asian-handicap-and-over-under?competitionids=26726">한국어</a></li><li><a class="id-id" href="/id-id/sports/football/competition/full-time-asian-handicap-and-over-under?competitionids=26726">Indo</a></li>
+    </ul>
+    </div><div id="ui-datepicker-div" class="ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all ui-helper-hidden-accessible"></div><div class="ddl-list" id="list_oddsDDL" style="position: absolute; z-index: 1000; display: none; visibility: visible; " _h="74" _w="57"><ul><li><a href="javascript:void(0)" value="1">Euro</a></li><li><a href="javascript:void(0)" value="2">HK</a></li><li><a href="javascript:void(0)" value="3" class="focus">Malay</a></li><li><a href="javascript:void(0)" value="4">Indo</a></li></ul></div><div class="ddl-list" id="list_preferredOddsTableViewDDL" style="position: absolute; z-index: 1000; display: none; visibility: visible; " _h="56" _w="117"><ul><li><a href="javascript:void(0)" value="0" class="focus">----</a></li><li><a href="javascript:void(0)" value="1">Simplified View</a></li><li><a href="javascript:void(0)" value="2">Advanced View</a></li></ul></div><div class="ddl-list" id="list_preferredOddsTableBetTypeDDL" style="position: absolute; z-index: 1000; display: none; visibility: visible; " _h="56" _w="189"><ul><li><a href="javascript:void(0)" value="0" class="focus">----</a></li><li><a href="javascript:void(0)" value="1">1x2</a></li><li><a href="javascript:void(0)" value="2">Asian Handicap + Over/Under</a></li></ul></div><div class="ddl-list" id="list_preferredAsianHandicapView" style="position: absolute; z-index: 1000; display: none; visibility: visible; " _h="56" _w="93"><ul><li><a href="javascript:void(0)" value="0" class="focus">----</a></li><li><a href="javascript:void(0)" value="1">Single Line</a></li><li><a href="javascript:void(0)" value="2">Double Line</a></li></ul></div><div class="ddl-list" id="list_ddlOFmt" style="position: absolute; z-index: 1000; display: none; visibility: visible; " _h="74" _w="57"><ul><li><a href="javascript:void(0)" value="2">HK</a></li><li><a href="javascript:void(0)" value="3" class="focus">Malay</a></li><li><a href="javascript:void(0)" value="1">Euro</a></li><li><a href="javascript:void(0)" value="4">Indo</a></li></ul></div><div class="ddl-list" id="list_ddlBetTypes" style="position: absolute; z-index: 1000; display: none; visibility: visible; " _h="13" _w="2"><ul><li><a href="full-time-asian-handicap-and-over-under?competitionids=26726" class="focus">Handicap &amp; Over / Under</a></li><li><a href="1st-half-asian-handicap-and-over-under?competitionids=26726">Handicap &amp; Over / Under (1st Half)</a></li><li><a href="1x2?competitionids=26726">1 X 2</a></li><li><a href="1st-half-1x2?competitionids=26726">1 X 2 (1st Half)</a></li><li><a href="correct-score?competitionids=26726">Correct Score</a></li><li><a href="odd-even?competitionids=26726">Odd / Even</a></li><li><a href="1st-half-odd-even?competitionids=26726">Odd / Even (1st Half)</a></li><li><a href="half-time-full-time?competitionids=26726">Half Time / Full Time</a></li><li><a href="total-number-of-goals?competitionids=26726">Total Goals</a></li><li><a href="outright?competitionids=26726">Outright</a></li></ul></div><div class="ddl-list" id="list_ddlSortBy" style="position: absolute; z-index: 1000; display: none; visibility: visible; " _h="38" _w="99"><ul><li><a href="javascript:void(0)" value="1" class="focus">Competitions</a></li><li><a href="javascript:void(0)" value="2">Time</a></li></ul></div><div class="ddl-list" id="list_ddlPaging" style="position: absolute; z-index: 1000; display: none; visibility: visible; " _h="13" _w="2"><ul><li><a href="javascript:void(0)" value="0" class="focus">1/1</a></li></ul></div><div class="ddl-list" id="list_b-ddlPaging" style="position: absolute; z-index: 1000; display: none; visibility: visible; " _h="13" _w="2"><ul><li><a href="javascript:void(0)" value="0" class="focus">1/1</a></li></ul></div></body></html>

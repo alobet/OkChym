@@ -1,0 +1,208 @@
+<tbody class="evt" id="e589357">
+<!-- Home row -->
+
+<td class="col-info" rowspan="3">
+<div id="lv589357">
+</div>
+<div class="date" id="ed589357">
+23 / 11
+</div>
+<div class="start-time" id="et589357">
+ 19:45
+</div>
+<div class="event-detail">
+ <span class="icon-info hidden">
+</span>
+</div>
+ </td>
+<td class="col-selection">
+<div class="selection clearfix">
+ <span class="selection-txt" id="ht589357">
+ Everton
+ </span>
+ </div>
+</td>
+<td class="col-1x2">
+<span class="odds" id="o341709076" ttp="Home">
+ 2.75
+</span>
+</td>
+ <td class="col-hdp">
+ <div class="hdp hidden" hdp="+0/0.5" id="h341709100">
++0/0.5
+</div>
+ </td>
+<td class="col-hdp-odds">
+<span class="odds" id="o341709100" ttp="Home">
+  0.79
+ </span>
+</td>
+<td class="col-ou">
+<div class="ou">
+<span class="ou-txt">
+O
+</span>
+ <span hdp="2.5" id="h341709096">
+ 2.5
+ </span>
+ </div>
+</td>
+<td class="col-ou-odds">
+<span class="odds" id="o341709096" ttp="Over">
+ 0.94
+</span>
+</td>
+ <td class="col-1x2 half divider">
+ <span class="odds" id="o341709079" ttp="Home">
+3.40
+</span>
+ </td>
+<td class="col-hdp half">
+<div class="hdp" hdp="0" id="h341709102">
+  0
+ </div>
+</td>
+<td class="col-hdp-odds half">
+<span class="odds neg" id="o341709102" ttp="Home">
+ -0.91
+</span>
+</td>
+ <td class="col-ou half">
+ <div class="ou">
+<span class="ou-txt">
+  O
+</span>
+<span hdp="1" id="h341709098">
+1
+</span>
+</div>
+</td>
+ <td class="col-ou-odds half">
+ <span class="odds" id="o341709098" ttp="Over">
+0.91
+</span>
+ </td>
+<td class="col-oe">
+<div class="oe">
+  Odd
+ </div>
+</td>
+<td class="col-oe-odds">
+<span class="odds" id="o341709094" ttp="Odd">
+ 1.00
+</span>
+</td>
+ <td class="col-option" rowspan="3">
+ <a class="btn-mb ccajax" id="mb589357" ttp="View All Markets" url="/en-gb/sports/589357">
+21
+</a>
+<a class="btn-stats" target="_blank" ttp="Statistics" url="/en-gb/info-centre/sportsbook-info/statistics/589357">
+</a>
+ </td>
+</tr>
+<!-- Away row -->
+ <tr>
+<td class="col-selection">
+<div class="selection clearfix">
+ <span class="selection-txt fav" id="at589357">
+ Liverpool
+ </span>
+ </div>
+</td>
+<td class="col-1x2">
+<span class="odds" id="o341709077" ttp="Away">
+ 2.35
+</span>
+</td>
+ <td class="col-hdp">
+ <div class="hdp" hdp="-0/0.5" id="h341709101">
+0/0.5
+</div>
+ </td>
+<td class="col-hdp-odds">
+<span class="odds neg" id="o341709101" ttp="Away">
+  -0.86
+ </span>
+</td>
+<td class="col-ou">
+<div class="ou">
+<span class="ou-txt" hdp="2.5" id="h341709097">
+U
+</span>
+  2.5
+ </div>
+</td>
+<td class="col-ou-odds">
+<span class="odds" id="o341709097" ttp="Under">
+ 0.96
+</span>
+</td>
+ <td class="col-1x2 half divider">
+ <span class="odds" id="o341709080" ttp="Away">
+2.95
+</span>
+ </td>
+<td class="col-hdp half">
+<div class="hdp hidden" hdp="0" id="h341709103">
+  0
+ </div>
+</td>
+<td class="col-hdp-odds half">
+<span class="odds" id="o341709103" ttp="Away">
+ 0.81
+</span>
+</td>
+ <td class="col-ou half">
+ <div class="ou">
+<span class="ou-txt">
+  U
+</span>
+<span hdp="1" id="h341709099">
+1
+</span>
+</div>
+</td>
+ <td class="col-ou-odds half">
+ <span class="odds" hdp="1" id="o341709099" ttp="Under">
+0.99
+</span>
+ </td>
+<td class="col-oe">
+<div class="oe">
+  Even
+ </div>
+</td>
+<td class="col-oe-odds">
+<span class="odds" id="o341709095" ttp="Even">
+ 0.90
+</span>
+</td>
+</tr>
+ <!-- Draw row -->
+<tr>
+ <td class="col-selection">
+ <div class="selection clearfix">
+<span class="selection-txt">
+  Draw
+</span>
+</div>
+ </td>
+<td class="col-1x2">
+<span class="odds" id="o341709078" ttp="Draw">
+  3.20
+ </span>
+</td>
+<td class="colspan-4" colspan="4">
+ </td>
+<td class="colspan-6" colspan="6">
+</td>
+ <td class="col-1x2 half divider">
+ <span class="odds" id="o341709081" ttp="Draw">
+2.05
+</span>
+ </td>
+<td class="col-hdp half" colspan="4">
+</td>
+</tr>
+</tbody>
+
